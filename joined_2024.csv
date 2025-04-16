@@ -753,9 +753,9 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Sarabjot Singh,Male,9/30/2001,India,IND,Shooting,"['10m Air Pistol Men', '10m Air Pistol Mixed Team']",Bronze
 2024,Summer,Raiza Dhillon,Female,4/20/2004,India,IND,Shooting,['Skeet Women'],
 2024,Summer,Nikita Tsvetkov,Male,2/14/2005,Uzbekistan,UZB,Cycling Road,"[""Men's Road Race""]",
-2024,Summer,Shao-Hsuan Wu,Male,11/25/1997,Chinese Taipei,TPE,Canoe Slalom,"[""Men's Kayak Single"", ""Men's Kayak Cross""]",
-2024,Summer,Chu-Han Chang,Female,3/1/1993,Chinese Taipei,TPE,Canoe Slalom,"[""Women's Kayak Single"", ""Women's Kayak Cross""]",
-2024,Summer,Kuan-Chieh Lai,Male,12/29/1996,Chinese Taipei,TPE,Canoe Sprint,"[""Men's Canoe Single 1000m""]",
+2024,Summer,Wu Shao-Hsuan,Male,11/25/1997,Chinese Taipei,TPE,Canoe Slalom,"[""Men's Kayak Single"", ""Men's Kayak Cross""]",
+2024,Summer,Chang Chu-Han,Female,3/1/1993,Chinese Taipei,TPE,Canoe Slalom,"[""Women's Kayak Single"", ""Women's Kayak Cross""]",
+2024,Summer,Lai Kuan-Chieh,Male,12/29/1996,Chinese Taipei,TPE,Canoe Sprint,"[""Men's Canoe Single 1000m""]",
 2024,Summer,Mohamad Aniq Bin Kasdan,Male,6/16/2002,Malaysia,MAS,Weightlifting,"[""Men's 61kg""]",
 2024,Summer,Kaylia Nemour,Female,12/30/2006,Algeria,ALG,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault""]",Gold
 2024,Summer,Alise Fakhrutdinova,Female,2/23/1990,Uzbekistan,UZB,Modern Pentathlon,"[""Women's Individual""]",
@@ -1023,7 +1023,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Kate Foo Kune,Female,3/29/1993,Mauritius,MRI,Badminton,"[""Women's Singles""]",
 2024,Summer,Marie Perrier,Female,3/30/1995,Mauritius,MRI,Athletics,"[""Women's Marathon""]",
 2024,Summer,Gary Noa Jerrel Bibi,Male,8/21/2000,Mauritius,MRI,Athletics,"[""Men's 100m""]",
-2024,Summer,Chia-Ling Lo,Female,10/8/2001,Chinese Taipei,TPE,Taekwondo,['Women -57kg'],
+2024,Summer,Lo Chia-Ling,Female,10/8/2001,Chinese Taipei,TPE,Taekwondo,['Women -57kg'],
 2024,Summer,Florin Bogdan Horodisteanu,Male,4/12/1999,Romania,ROU,Rowing,"[""Men's Quadruple Sculls""]",
 2024,Summer,Florin Sorin Lehaci,Male,3/26/1999,Romania,ROU,Rowing,"[""Men's Eight"", ""Men's Pair""]",
 2024,Summer,Andrei Lungu,Male,8/6/2000,Romania,ROU,Rowing,"[""Men's Quadruple Sculls""]",
@@ -1728,12 +1728,12 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Jyothi Yarraji,Female,8/28/1999,India,IND,Athletics,"[""Women's 100m Hurdles""]",
 2024,Summer,Vithya Ramraj,Female,9/20/1998,India,IND,Athletics,"[""Women's 4 x 400m Relay""]",
 2024,Summer,Duc Phat Le,Male,2/1/1998,Vietnam,VIE,Badminton,"[""Men's Singles""]",
-2024,Summer,Chih-Chun Tang,Male,3/16/2001,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team""]",
-2024,Summer,Yu-Hsuan Tai,Male,11/9/2002,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team"", 'Mixed Team']",
-2024,Summer,Zih-Siang Lin,Male,8/1/2001,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team""]",
-2024,Summer,Chien-Ying Lei,Female,4/17/1990,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team"", 'Mixed Team']",
-2024,Summer,Yi-Ching Chiu,Female,10/16/2003,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team""]",
-2024,Summer,Tsai-Chi Li,Female,1/2/2005,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team""]",
+2024,Summer,Tang Chih-Chun,Male,3/16/2001,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team""]",
+2024,Summer,Tai Yu-Hsuan,Male,11/9/2002,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team"", 'Mixed Team']",
+2024,Summer,Lin Zih-Siang,Male,8/1/2001,Chinese Taipei,TPE,Archery,"[""Men's Individual"", ""Men's Team""]",
+2024,Summer,Lei Chien-Ying,Female,4/17/1990,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team"", 'Mixed Team']",
+2024,Summer,Chiu Yi-Ching,Female,10/16/2003,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team""]",
+2024,Summer,Li Tsai-Chi,Female,1/2/2005,Chinese Taipei,TPE,Archery,"[""Women's Individual"", ""Women's Team""]",
 2024,Summer,Lovisa Karlsson,Female,5/24/1995,Sweden,SWE,Sailing,['Mixed Dinghy'],Bronze
 2024,Summer,Anton Dahlberg,Male,5/10/1985,Sweden,SWE,Sailing,['Mixed Dinghy'],Bronze
 2024,Summer,Vilma Bobeck,Female,1/5/1998,Sweden,SWE,Sailing,"[""Women's Skiff""]",Silver
@@ -1743,8 +1743,8 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Johanna Hjertberg,Female,9/19/1997,Sweden,SWE,Sailing,"[""Women's Windsurfing""]",
 2024,Summer,Emil Jarudd,Male,4/27/1998,Sweden,SWE,Sailing,['Mixed Multihull'],
 2024,Summer,Lonah Chemtai Salpeter,Female,12/12/1988,Israel,ISR,Athletics,"[""Women's Marathon""]",
-2024,Summer,Chun-Han Yang,Male,1/1/1997,Chinese Taipei,TPE,Athletics,"[""Men's 200m""]",
-2024,Summer,Ming-Yang Peng,Male,6/10/1998,Chinese Taipei,TPE,Athletics,"[""Men's 400m Hurdles""]",
+2024,Summer,Yang Chun-Han,Male,1/1/1997,Chinese Taipei,TPE,Athletics,"[""Men's 200m""]",
+2024,Summer,Peng Ming-Yang,Male,6/10/1998,Chinese Taipei,TPE,Athletics,"[""Men's 400m Hurdles""]",
 2024,Summer,Azmy Mehelba,Male,3/26/1991,Egypt,EGY,Shooting,['Skeet Men'],
 2024,Summer,Mohamed Hamdy Abdelkader,Male,8/7/1990,Egypt,EGY,Shooting,"['10m Air Rifle Men', '10m Air Rifle Mixed Team']",
 2024,Summer,Maor Tiyouri,Female,8/13/1990,Israel,ISR,Athletics,"[""Women's Marathon""]",
@@ -1809,16 +1809,16 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Samuel Freire,Male,8/28/1990,Cabo Verde,CPV,Athletics,"[""Men's Marathon""]",
 2024,Summer,Marlena Jawaid,Female,8/16/2000,Sweden,SWE,Modern Pentathlon,"[""Women's Individual""]",
 2024,Summer,Irvin Hoost,Male,4/19/1999,Suriname,SUR,Swimming,"[""Men's 100m Freestyle""]",
-2024,Summer,Yu-Tang Lin,Male,5/11/2000,Chinese Taipei,TPE,Athletics,"[""Men's Long Jump""]",
+2024,Summer,Lin Yu-Tang,Male,5/11/2000,Chinese Taipei,TPE,Athletics,"[""Men's Long Jump""]",
 2024,Summer,Waisake Tewa,Male,9/18/2003,Fiji,FIJ,Athletics,"[""Men's 100m""]",
-2024,Summer,Bo-Ya Zhang,Female,4/3/2003,Chinese Taipei,TPE,Athletics,"[""Women's 100m""]",
+2024,Summer,Zhang Bo-Ya,Female,4/3/2003,Chinese Taipei,TPE,Athletics,"[""Women's 100m""]",
 2024,Summer,Manami Iijima,Female,10/20/1992,Guam,GUM,Triathlon,"[""Women's Individual""]",
 2024,Summer,Mia Lahnee Ramos Aquino,Female,3/29/1998,Guam,GUM,Wrestling,"[""Women's Freestyle 53kg""]",
 2024,Summer,Rckaela Maree Ramos Aquino,Female,7/4/1999,Guam,GUM,Wrestling,"[""Women's Freestyle 57kg""]",
 2024,Summer,Sharofiddin Boltaboev,Male,11/19/1995,Uzbekistan,UZB,Judo,"['Men -81 kg', 'Mixed Team']",
-2024,Summer,Chen-Ling Lien,Female,1/31/1988,Chinese Taipei,TPE,Judo,['Women -57 kg'],
-2024,Summer,Yung Wei Yang,Male,9/28/1997,Chinese Taipei,TPE,Judo,['Men -60 kg'],
-2024,Summer,Chen-Hao Lin,Female,10/26/1997,Chinese Taipei,TPE,Judo,['Women -48 kg'],
+2024,Summer,Lien Chen-Ling,Female,1/31/1988,Chinese Taipei,TPE,Judo,['Women -57 kg'],
+2024,Summer,Yang Yung Wei,Male,9/28/1997,Chinese Taipei,TPE,Judo,['Men -60 kg'],
+2024,Summer,Lin Chen-Hao,Female,10/26/1997,Chinese Taipei,TPE,Judo,['Women -48 kg'],
 2024,Summer,Rama Abo-Alrub,Female,6/8/2001,Jordan,JOR,Taekwondo,['Women +67kg'],
 2024,Summer,Sydney Francisco,Female,5/24/2005,Palau,PLW,Athletics,"[""Women's 100m""]",
 2024,Summer,Moath Alkhawaldeh,Male,10/22/1988,Jordan,JOR,Athletics,"[""Men's Marathon""]",
@@ -2073,22 +2073,22 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Israel Gutierrez,Male,3/19/1992,El Salvador,ESA,Shooting,"['10m Air Rifle Men', '50m Rifle 3 Positions Men']",
 2024,Summer,Jair Tjon En Fa,Male,10/19/1993,Suriname,SUR,Cycling Track,"[""Men's Keirin"", ""Men's Sprint""]",
 2024,Summer,Ayamey Damiana Medina Roca,Female,2/21/1998,Cuba,CUB,Weightlifting,"[""Women's 81kg""]",
-2024,Summer,Hsing-Chun Kuo,Female,11/26/1993,Chinese Taipei,TPE,Weightlifting,"[""Women's 59kg""]",Bronze
-2024,Summer,Wen-Huei Chen,Female,2/23/1997,Chinese Taipei,TPE,Weightlifting,"[""Women's 71kg""]",
+2024,Summer,Kuo Hsing-Chun,Female,11/26/1993,Chinese Taipei,TPE,Weightlifting,"[""Women's 59kg""]",Bronze
+2024,Summer,Chen Wen-Huei,Female,2/23/1997,Chinese Taipei,TPE,Weightlifting,"[""Women's 71kg""]",
 2024,Summer,Ching Hwee Gan,Female,7/22/2003,Singapore,SGP,Swimming,"[""Women's 1500m Freestyle"", ""Women's 4 x 100m Medley Relay"", ""Women's 800m Freestyle""]",
-2024,Summer,Wan-Ling Fang,Female,12/1/1999,Chinese Taipei,TPE,Weightlifting,"[""Women's 49kg""]",
+2024,Summer,Fang Wan-Ling,Female,12/1/1999,Chinese Taipei,TPE,Weightlifting,"[""Women's 49kg""]",
 2024,Summer,Enver Yildirim,Male,10/18/1995,Türkiye,TUR,Fencing,"[""Men's Sabre Individual""]",
 2024,Summer,Nisanur Erbil,Female,4/22/2003,Türkiye,TUR,Fencing,"[""Women's Sabre Individual""]",
 2024,Summer,Anuoluwapo Juwon Opeyori,Male,6/1/1997,Nigeria,NGR,Badminton,"[""Men's Singles""]",
 2024,Summer,Yauheni Tsikhantsou,Male,11/4/1998,Individual Neutral Athletes,AIN,Weightlifting,"[""Men's 102kg""]",Bronze
-2024,Summer,Kun-Pi Yang,Male,8/11/1998,Chinese Taipei,TPE,Shooting,['Trap Men'],
-2024,Summer,Yi Chun Lin,Female,7/5/1981,Chinese Taipei,TPE,Shooting,['Trap Women'],
-2024,Summer,Meng Yuan Lee,Male,8/25/1994,Chinese Taipei,TPE,Shooting,['Skeet Men'],Bronze
-2024,Summer,Chia Chen Tien,Female,12/20/1983,Chinese Taipei,TPE,Shooting,['25m Pistol Women'],
-2024,Summer,Heng Yu Liu,Female,3/28/2003,Chinese Taipei,TPE,Shooting,['10m Air Pistol Women'],
-2024,Summer,Chia Ying Wu,Female,10/25/1992,Chinese Taipei,TPE,Shooting,['25m Pistol Women'],
-2024,Summer,Wan-Yu Liu,Female,7/16/1995,Chinese Taipei,TPE,Shooting,['Trap Women'],
-2024,Summer,Ai Wen Yu,Female,12/27/1995,Chinese Taipei,TPE,Shooting,['10m Air Pistol Women'],
+2024,Summer,Yang Kun-Pi,Male,8/11/1998,Chinese Taipei,TPE,Shooting,['Trap Men'],
+2024,Summer,Lin Yi Chun,Female,7/5/1981,Chinese Taipei,TPE,Shooting,['Trap Women'],
+2024,Summer,Lee Meng Yuan,Male,8/25/1994,Chinese Taipei,TPE,Shooting,['Skeet Men'],Bronze
+2024,Summer,Tien Chia Chen,Female,12/20/1983,Chinese Taipei,TPE,Shooting,['25m Pistol Women'],
+2024,Summer,Liu Heng Yu,Female,3/28/2003,Chinese Taipei,TPE,Shooting,['10m Air Pistol Women'],
+2024,Summer,Wu Chia Ying,Female,10/25/1992,Chinese Taipei,TPE,Shooting,['25m Pistol Women'],
+2024,Summer,Liu Wan-Yu,Female,7/16/1995,Chinese Taipei,TPE,Shooting,['Trap Women'],
+2024,Summer,Yu Ai Wen,Female,12/27/1995,Chinese Taipei,TPE,Shooting,['10m Air Pistol Women'],
 2024,Summer,Damian Durkacz,Male,1/30/1999,Poland,POL,Boxing,"[""Men's 71kg""]",
 2024,Summer,Pearly Tan,Female,3/14/2000,Malaysia,MAS,Badminton,"[""Women's Doubles""]",
 2024,Summer,Salih Yildiz,Male,1/1/2001,Türkiye,TUR,Judo,"['Men -60 kg', 'Mixed Team']",
@@ -2105,14 +2105,14 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Fidan Ogel,Female,1/17/2002,Türkiye,TUR,Judo,"['Women -70 kg', 'Mixed Team']",
 2024,Summer,Kayra Ozdemir,Female,2/13/1988,Türkiye,TUR,Judo,"['Women +78 kg', 'Mixed Team']",
 2024,Summer,Nahuel Carabana,Male,11/10/1999,Andorra,AND,Athletics,"[""Men's 3000m Steeplechase""]",
-2024,Summer,Tzu Ying Tai,Female,6/20/1994,Chinese Taipei,TPE,Badminton,"[""Women's Singles""]",
-2024,Summer,Tien Chen Chou,Male,1/8/1990,Chinese Taipei,TPE,Badminton,"[""Men's Singles""]",
-2024,Summer,Chi-Lin Wang,Male,1/18/1995,Chinese Taipei,TPE,Badminton,"[""Men's Doubles""]",Gold
-2024,Summer,Yang Lee,Male,8/12/1995,Chinese Taipei,TPE,Badminton,"[""Men's Doubles""]",Gold
+2024,Summer,Tai Tzu Ying,Female,6/20/1994,Chinese Taipei,TPE,Badminton,"[""Women's Singles""]",
+2024,Summer,Chou Tien Chen,Male,1/8/1990,Chinese Taipei,TPE,Badminton,"[""Men's Singles""]",
+2024,Summer,Wang Chi-Lin,Male,1/18/1995,Chinese Taipei,TPE,Badminton,"[""Men's Doubles""]",Gold
+2024,Summer,Lee Yang,Male,8/12/1995,Chinese Taipei,TPE,Badminton,"[""Men's Doubles""]",Gold
 2024,Summer,Dariya Derkach,Female,3/27/1993,Italy,ITA,Athletics,"[""Women's Triple Jump""]",
 2024,Summer,Yassin Bouih,Male,11/24/1996,Italy,ITA,Athletics,"[""Men's 3000m Steeplechase""]",
 2024,Summer,Federico Riva,Male,11/9/2000,Italy,ITA,Athletics,"[""Men's 1500m""]",
-2024,Summer,Hong Wei Ye,Male,11/1/1999,Chinese Taipei,TPE,Badminton,['Mixed Doubles'],
+2024,Summer,Ye Hong Wei,Male,11/1/1999,Chinese Taipei,TPE,Badminton,['Mixed Doubles'],
 2024,Summer,Riccardo Orsoni,Male,1/20/2000,Italy,ITA,Athletics,"[""Men's 20km Race Walk""]",
 2024,Summer,Sibel Altinkaya,Female,2/1/1993,Türkiye,TUR,Table Tennis,"[""Women's Singles""]",
 2024,Summer,Evin Demirhan Yavuz,Female,7/2/1995,Türkiye,TUR,Wrestling,"[""Women's Freestyle 50kg""]",
@@ -2212,7 +2212,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Alejandro Enrique Valdes Tobier,Male,11/18/1988,Cuba,CUB,Wrestling,"[""Men's Freestyle 65kg""]",
 2024,Summer,Geandry Garzon Caballero,Male,11/5/1983,Cuba,CUB,Wrestling,"[""Men's Freestyle 74kg""]",
 2024,Summer,Marc Brian Louis,Male,8/7/2002,Singapore,SGP,Athletics,"[""Men's 100m""]",
-2024,Summer,Chia Hsin Lee,Female,5/11/1997,Chinese Taipei,TPE,Badminton,['Mixed Doubles'],
+2024,Summer,Lee Chia Hsin,Female,5/11/1997,Chinese Taipei,TPE,Badminton,['Mixed Doubles'],
 2024,Summer,Burhan Akbudak,Male,6/1/1995,Türkiye,TUR,Wrestling,"[""Men's Greco-Roman 77kg""]",
 2024,Summer,Ali Cengiz,Male,4/8/1996,Türkiye,TUR,Wrestling,"[""Men's Greco-Roman 87kg""]",
 2024,Summer,Muhammet Hamza Bakir,Male,1/20/2001,Türkiye,TUR,Wrestling,"[""Men's Greco-Roman 130kg""]",
@@ -2425,15 +2425,15 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Seungmin Seong,Female,5/13/2003,Republic of Korea,KOR,Modern Pentathlon,"[""Women's Individual""]",Bronze
 2024,Summer,Thu Vinh Trinh,Female,9/21/2000,Vietnam,VIE,Shooting,"['10m Air Pistol Women', '25m Pistol Women']",
 2024,Summer,Thi Mong Tuyen Le,Female,2/22/2003,Vietnam,VIE,Shooting,['10m Air Rifle Women'],
-2024,Summer,Yun-Ju Lin,Male,8/17/2001,Chinese Taipei,TPE,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",
-2024,Summer,Chih-Yuan Chuang,Male,4/2/1981,Chinese Taipei,TPE,Table Tennis,"[""Men's Team""]",
-2024,Summer,Cheng-Jui Kao,Male,12/25/2004,Chinese Taipei,TPE,Table Tennis,"[""Men's Singles"", ""Men's Team""]",
-2024,Summer,I-Ching Cheng,Female,2/15/1992,Chinese Taipei,TPE,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
-2024,Summer,Szu-Yu Chen,Female,8/1/1993,Chinese Taipei,TPE,Table Tennis,"[""Women's Team"", 'Mixed Doubles']",
-2024,Summer,Tung-Chuan Chien,Female,1/1/2002,Chinese Taipei,TPE,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
-2024,Summer,Chia-Hung Tang,Male,9/23/1996,Chinese Taipei,TPE,Artistic Gymnastics,"['Men', ""Men's Horizontal Bar""]",Bronze
-2024,Summer,Hua-Tien Ting,Female,10/11/2002,Chinese Taipei,TPE,Artistic Gymnastics,"['Women', ""Women's Balance Beam""]",
-2024,Summer,Chia Yi Tsao,Female,12/2/2003,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
+2024,Summer,Lin Yun-Ju,Male,8/17/2001,Chinese Taipei,TPE,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",
+2024,Summer,Chuang Chih-Yuan,Male,4/2/1981,Chinese Taipei,TPE,Table Tennis,"[""Men's Team""]",
+2024,Summer,Kao Cheng-Jui,Male,12/25/2004,Chinese Taipei,TPE,Table Tennis,"[""Men's Singles"", ""Men's Team""]",
+2024,Summer,Cheng I-Ching,Female,2/15/1992,Chinese Taipei,TPE,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
+2024,Summer,Chen Szu-Yu,Female,8/1/1993,Chinese Taipei,TPE,Table Tennis,"[""Women's Team"", 'Mixed Doubles']",
+2024,Summer,Chien Tung-Chuan,Female,1/1/2002,Chinese Taipei,TPE,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
+2024,Summer,Tang Chia-Hung,Male,9/23/1996,Chinese Taipei,TPE,Artistic Gymnastics,"['Men', ""Men's Horizontal Bar""]",Bronze
+2024,Summer,Ting Hua-Tien,Female,10/11/2002,Chinese Taipei,TPE,Artistic Gymnastics,"['Women', ""Women's Balance Beam""]",
+2024,Summer,Tsao Chia Yi,Female,12/2/2003,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
 2024,Summer,Marcus Thomsen,Male,1/7/1998,Norway,NOR,Athletics,"[""Men's Shot Put""]",
 2024,Summer,Eivind Henriksen,Male,9/14/1990,Norway,NOR,Athletics,"[""Men's Hammer Throw""]",
 2024,Summer,Amalie Iuel,Female,4/17/1994,Norway,NOR,Athletics,"[""Women's 400m Hurdles"", ""Women's 4 x 400m Relay""]",
@@ -2729,9 +2729,9 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Alondra Rivera,Female,7/19/2001,Puerto Rico,PUR,Archery,"[""Women's Individual""]",
 2024,Summer,Oscar Ticas,Male,3/28/1987,El Salvador,ESA,Archery,"[""Men's Individual""]",
 2024,Summer,David Young,Male,3/23/2005,Fiji,FIJ,Swimming,"[""Men's 50m Freestyle""]",
-2024,Summer,Hao-Ching Chan,Female,9/19/1993,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
-2024,Summer,Latisha Chan,Female,8/17/1989,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
-2024,Summer,Su-Wei Hsieh,Female,1/4/1986,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
+2024,Summer,Chan Hao-Ching,Female,9/19/1993,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
+2024,Summer,Chan Latisha,Female,8/17/1989,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
+2024,Summer,Hsieh Su-Wei,Female,1/4/1986,Chinese Taipei,TPE,Tennis,"[""Women's Doubles""]",
 2024,Summer,del Maylin Toro Carvajal,Female,10/22/1994,Cuba,CUB,Judo,['Women -63 kg'],
 2024,Summer,Idalys Ortiz,Female,9/27/1989,Cuba,CUB,Judo,['Women +78 kg'],
 2024,Summer,Raina Taitingfong,Female,11/30/1992,Guam,GUM,Canoe Sprint,"[""Women's Canoe Single 200m"", ""Women's Kayak Single 500m""]",
@@ -2740,7 +2740,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Eda Erdem Dundar,Female,6/22/1987,Türkiye,TUR,Volleyball,['Women'],
 2024,Summer,Ulugbek Rashitov,Male,3/23/2002,Uzbekistan,UZB,Taekwondo,['Men -68kg'],Gold
 2024,Summer,Jasurbek Jaysunov,Male,4/19/2002,Uzbekistan,UZB,Taekwondo,['Men -80kg'],
-2024,Summer,Kuan-Hung Wang,Male,1/23/2002,Chinese Taipei,TPE,Swimming,"[""Men's 200m Butterfly""]",
+2024,Summer,Wang Kuan-Hung,Male,1/23/2002,Chinese Taipei,TPE,Swimming,"[""Men's 200m Butterfly""]",
 2024,Summer,Enkhtamir Batbayar,Male,9/27/2004,Mongolia,MGL,Swimming,"[""Men's 100m Freestyle""]",
 2024,Summer,Nikita Rafalovich,Male,10/10/1993,Uzbekistan,UZB,Taekwondo,['Men +80kg'],
 2024,Summer,Cansu Ozbay,Female,10/17/1996,Türkiye,TUR,Volleyball,['Women'],
@@ -2757,17 +2757,17 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Gizem Orge,Female,4/26/1993,Türkiye,TUR,Volleyball,['Women'],
 2024,Summer,Berkay Ogretir,Male,2/16/1998,Türkiye,TUR,Swimming,"[""Men's 100m Breaststroke""]",
 2024,Summer,Kuzey Tuncelli,Male,8/30/2007,Türkiye,TUR,Swimming,"[""Men's 10km"", ""Men's 1500m Freestyle"", ""Men's 800m Freestyle""]",
-2024,Summer,Hsiao Wen Huang,Female,8/31/1997,Chinese Taipei,TPE,Boxing,"[""Women's 54kg""]",
+2024,Summer,Huang Hsiao Wen,Female,8/31/1997,Chinese Taipei,TPE,Boxing,"[""Women's 54kg""]",
 2024,Summer,Emir Batur Albayrak,Male,6/7/2007,Türkiye,TUR,Swimming,"[""Men's 10km"", ""Men's 1500m Freestyle""]",
 2024,Summer,Zehra Gunes,Female,7/7/1999,Türkiye,TUR,Volleyball,['Women'],
-2024,Summer,Yu Ting Lin,Female,12/13/1995,Chinese Taipei,TPE,Boxing,"[""Women's 57kg""]",Gold
+2024,Summer,Lin Yu Ting,Female,12/13/1995,Chinese Taipei,TPE,Boxing,"[""Women's 57kg""]",Gold
 2024,Summer,Berke Saka,Male,7/9/2003,Türkiye,TUR,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Individual Medley""]",
-2024,Summer,Shih Yi Wu,Female,4/27/1998,Chinese Taipei,TPE,Boxing,"[""Women's 60kg""]",Bronze
+2024,Summer,Wu Shih Yi,Female,4/27/1998,Chinese Taipei,TPE,Boxing,"[""Women's 60kg""]",Bronze
 2024,Summer,Serghei Marghiev,Male,11/6/1992,Republic of Moldova,MDA,Athletics,"[""Men's Hammer Throw""]",
-2024,Summer,Nien Chin Chen,Female,5/10/1997,Chinese Taipei,TPE,Boxing,"[""Women's 66kg""]",Bronze
+2024,Summer,Chen Nien Chin,Female,5/10/1997,Chinese Taipei,TPE,Boxing,"[""Women's 66kg""]",Bronze
 2024,Summer,Victor Ciobanu,Male,10/7/1992,Republic of Moldova,MDA,Wrestling,"[""Men's Greco-Roman 60kg""]",
-2024,Summer,Chia Wei Kan,Male,1/10/1998,Chinese Taipei,TPE,Boxing,"[""Men's 71kg""]",
-2024,Summer,Chu En Lai,Male,7/23/1996,Chinese Taipei,TPE,Boxing,"[""Men's 63.5kg""]",
+2024,Summer,Kan Chia Wei,Male,1/10/1998,Chinese Taipei,TPE,Boxing,"[""Men's 71kg""]",
+2024,Summer,Lai Chu En,Male,7/23/1996,Chinese Taipei,TPE,Boxing,"[""Men's 63.5kg""]",
 2024,Summer,Zalina Marghieva,Female,2/5/1988,Republic of Moldova,MDA,Athletics,"[""Women's Hammer Throw""]",
 2024,Summer,Andrian Mardare,Male,6/20/1995,Republic of Moldova,MDA,Athletics,"[""Men's Javelin Throw""]",
 2024,Summer,Valentin Petic,Male,12/18/1999,Republic of Moldova,MDA,Wrestling,"[""Men's Greco-Roman 67kg""]",
@@ -2804,7 +2804,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Moeka Minami,Female,12/7/1998,Japan,JPN,Football,['Women'],
 2024,Summer,Saki Kumagai,Female,10/17/1990,Japan,JPN,Football,['Women'],
 2024,Summer,Risa Shimizu,Female,6/15/1996,Japan,JPN,Football,['Women'],
-2024,Summer,Yi-Tung Chen,Male,6/27/2003,Chinese Taipei,TPE,Fencing,"[""Men's Foil Individual""]",
+2024,Summer,Chen Yi-Tung,Male,6/27/2003,Chinese Taipei,TPE,Fencing,"[""Men's Foil Individual""]",
 2024,Summer,Rika Ogawa,Female,7/28/1994,Japan,JPN,Hockey,['Women'],
 2024,Summer,Miyu Hasegawa,Female,11/20/2001,Japan,JPN,Hockey,['Women'],
 2024,Summer,Shiho Kobayakawa,Female,4/12/1999,Japan,JPN,Hockey,['Women'],
@@ -2981,12 +2981,12 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Seungjun Kim,Male,9/12/1994,Republic of Korea,KOR,Wrestling,"[""Men's Greco-Roman 97kg""]",
 2024,Summer,Hanbit Lee,Female,12/23/1994,Republic of Korea,KOR,Wrestling,"[""Women's Freestyle 62kg""]",
 2024,Summer,Seungchan Lee,Male,11/9/1995,Republic of Korea,KOR,Wrestling,"[""Men's Greco-Roman 130kg""]",
-2024,Summer,Zongying Guo,Female,2/14/1999,People's Republic of China,CHN,Judo,['Women -48 kg'],
-2024,Summer,Yeqing Zhu,Female,1/1/1998,People's Republic of China,CHN,Judo,['Women -52 kg'],
-2024,Summer,Qi Cai,Female,6/8/1995,People's Republic of China,CHN,Judo,['Women -57 kg'],
-2024,Summer,Jing Tang,Female,6/8/1995,People's Republic of China,CHN,Judo,['Women -63 kg'],
-2024,Summer,Zhenzhao Ma,Female,4/24/1998,People's Republic of China,CHN,Judo,['Women -78 kg'],Bronze
-2024,Summer,Shiyan Xu,Female,3/15/1997,People's Republic of China,CHN,Judo,['Women +78 kg'],
+2024,Summer,Guo Zongying,Female,2/14/1999,People's Republic of China,CHN,Judo,['Women -48 kg'],
+2024,Summer,Zhu Yeqing,Female,1/1/1998,People's Republic of China,CHN,Judo,['Women -52 kg'],
+2024,Summer,Cai Qi,Female,6/8/1995,People's Republic of China,CHN,Judo,['Women -57 kg'],
+2024,Summer,Tang Jing,Female,6/8/1995,People's Republic of China,CHN,Judo,['Women -63 kg'],
+2024,Summer,Ma Zhenzhao,Female,4/24/1998,People's Republic of China,CHN,Judo,['Women -78 kg'],Bronze
+2024,Summer,Xu Shiyan,Female,3/15/1997,People's Republic of China,CHN,Judo,['Women +78 kg'],
 2024,Summer,Kenji Nener,Male,5/26/1993,Japan,JPN,Triathlon,"[""Men's Individual""]",
 2024,Summer,Yuko Takahashi,Female,8/27/1991,Japan,JPN,Triathlon,"[""Women's Individual""]",
 2024,Summer,Makoto Odakura,Male,7/20/1993,Japan,JPN,Triathlon,"[""Men's Individual""]",
@@ -3822,8 +3822,8 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Richard Andre Ordemann,Male,8/6/1994,Norway,NOR,Taekwondo,['Men +80kg'],
 2024,Summer,Baison Manikon,Female,11/7/2001,Thailand,THA,Boxing,"[""Women's 75kg""]",
 2024,Summer,Nurali Emomali,Male,4/8/2002,Tajikistan,TJK,Judo,['Men -66 kg'],
-2024,Summer,Chen Xue,Female,2/18/1989,People's Republic of China,CHN,Beach Volleyball,['Women'],
-2024,Summer,Xinyi Xia,Female,1/14/1997,People's Republic of China,CHN,Beach Volleyball,['Women'],
+2024,Summer,Xue Chen,Female,2/18/1989,People's Republic of China,CHN,Beach Volleyball,['Women'],
+2024,Summer,Xia Xinyi,Female,1/14/1997,People's Republic of China,CHN,Beach Volleyball,['Women'],
 2024,Summer,Barbara Matic,Female,12/3/1994,Croatia,CRO,Judo,['Women -70 kg'],Gold
 2024,Summer,Weerapon Jongjoho,Male,2/7/2001,Thailand,THA,Boxing,"[""Men's 80kg""]",
 2024,Summer,Carlota Ciganda,Female,6/1/1990,Spain,ESP,Golf,"[""Women's Individual Stroke Play""]",
@@ -4091,22 +4091,22 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Megertu Alemu,Female,10/12/1997,Ethiopia,ETH,Athletics,"[""Women's Marathon""]",
 2024,Summer,Cedrick Belony-Duliepre,Male,1/24/1999,Haiti,HAI,Boxing,"[""Men's 80kg""]",
 2024,Summer,Alondra Denis Tapia Cruz,Female,5/19/2004,Dominican Republic,DOM,Volleyball,['Women'],
-2024,Summer,Siqi Yang,Female,2/10/2009,People's Republic of China,CHN,Surfing,['Women'],
-2024,Summer,Yiwen Chen,Female,6/15/1999,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
-2024,Summer,Yiwen Chen,Female,6/15/1999,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
-2024,Summer,Yani Chang,Female,12/7/2001,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Bronze
-2024,Summer,Yani Chang,Female,12/7/2001,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
-2024,Summer,Yuxi Chen,Female,9/11/2005,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Silver
-2024,Summer,Yuxi Chen,Female,9/11/2005,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
-2024,Summer,Hongchan Quan,Female,3/28/2007,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
-2024,Summer,Hongchan Quan,Female,3/28/2007,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
-2024,Summer,Zongyuan Wang,Male,10/24/2001,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard"", ""Men's Synchronised 3m Springboard""]",Silver
-2024,Summer,Zongyuan Wang,Male,10/24/2001,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard"", ""Men's Synchronised 3m Springboard""]",Gold
-2024,Summer,Siyi Xie,Male,3/28/1996,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard""]",Gold
-2024,Summer,Daoyi Long,Male,3/6/2003,People's Republic of China,CHN,Diving,"[""Men's Synchronised 3m Springboard""]",Gold
-2024,Summer,Hao Yang,Male,2/3/1998,People's Republic of China,CHN,Diving,"[""Men's 10m Platform"", ""Men's Synchronised 10m Platform""]",Gold
-2024,Summer,Junjie Lian,Male,11/3/2000,People's Republic of China,CHN,Diving,"[""Men's Synchronised 10m Platform""]",Gold
-2024,Summer,Yuan Cao,Male,2/7/1995,People's Republic of China,CHN,Diving,"[""Men's 10m Platform""]",Gold
+2024,Summer,Yang Siqi,Female,2/10/2009,People's Republic of China,CHN,Surfing,['Women'],
+2024,Summer,Chen Yiwen,Female,6/15/1999,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
+2024,Summer,Chen Yiwen,Female,6/15/1999,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
+2024,Summer,Chang Yani,Female,12/7/2001,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Bronze
+2024,Summer,Chang Yani,Female,12/7/2001,People's Republic of China,CHN,Diving,"[""Women's 3m Springboard"", ""Women's Synchronised 3m Springboard""]",Gold
+2024,Summer,Chen Yuxi,Female,9/11/2005,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Silver
+2024,Summer,Chen Yuxi,Female,9/11/2005,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
+2024,Summer,Quan Hongchan,Female,3/28/2007,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
+2024,Summer,Quan Hongchan,Female,3/28/2007,People's Republic of China,CHN,Diving,"[""Women's 10m Platform"", ""Women's Synchronised 10m Platform""]",Gold
+2024,Summer,Wang Zongyuan,Male,10/24/2001,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard"", ""Men's Synchronised 3m Springboard""]",Silver
+2024,Summer,Wang Zongyuan,Male,10/24/2001,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard"", ""Men's Synchronised 3m Springboard""]",Gold
+2024,Summer,Xie Siyi,Male,3/28/1996,People's Republic of China,CHN,Diving,"[""Men's 3m Springboard""]",Gold
+2024,Summer,Long Daoyi,Male,3/6/2003,People's Republic of China,CHN,Diving,"[""Men's Synchronised 3m Springboard""]",Gold
+2024,Summer,Yang Hao,Male,2/3/1998,People's Republic of China,CHN,Diving,"[""Men's 10m Platform"", ""Men's Synchronised 10m Platform""]",Gold
+2024,Summer,Lian Junjie,Male,11/3/2000,People's Republic of China,CHN,Diving,"[""Men's Synchronised 10m Platform""]",Gold
+2024,Summer,Cao Yuan,Male,2/7/1995,People's Republic of China,CHN,Diving,"[""Men's 10m Platform""]",Gold
 2024,Summer,Ariana Rodriguez Fung,Female,11/3/2005,Dominican Republic,DOM,Volleyball,['Women'],
 2024,Summer,de la de Bethania Cruz Pena,Female,5/13/1987,Dominican Republic,DOM,Volleyball,['Women'],
 2024,Summer,Brayelin Elizabeth Martinez,Female,9/11/1996,Dominican Republic,DOM,Volleyball,['Women'],
@@ -4133,26 +4133,26 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Jaehoon Yang,Male,5/7/1998,Republic of Korea,KOR,Swimming,"[""Men's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",
 2024,Summer,Jaegyeong Yi,Male,11/25/1999,Republic of Korea,KOR,Diving,"[""Men's 3m Springboard""]",
 2024,Summer,Brenda Castillo,Female,6/5/1992,Dominican Republic,DOM,Volleyball,['Women'],
-2024,Summer,Ning Zhang,Male,2/19/1997,People's Republic of China,CHN,3x3 Basketball,['Men'],
-2024,Summer,Yuanbo Zhu,Male,11/7/1993,People's Republic of China,CHN,3x3 Basketball,['Men'],
-2024,Summer,Wenbo Lu,Male,8/4/1997,People's Republic of China,CHN,3x3 Basketball,['Men'],
-2024,Summer,Jiaren Zhao,Male,1/6/1999,People's Republic of China,CHN,3x3 Basketball,['Men'],
-2024,Summer,Jiyuan Wan,Female,7/13/2002,People's Republic of China,CHN,3x3 Basketball,['Women'],
-2024,Summer,Mingling Chen,Female,7/25/2000,People's Republic of China,CHN,3x3 Basketball,['Women'],
-2024,Summer,Zhiting Zhang,Female,12/21/1995,People's Republic of China,CHN,3x3 Basketball,['Women'],
-2024,Summer,Lili Wang,Female,9/8/1992,People's Republic of China,CHN,3x3 Basketball,['Women'],
-2024,Summer,Siyu Wang,Female,10/16/1995,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Yuan Li,Female,5/29/2000,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Xu Han,Female,10/31/1999,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Sijing Huang,Female,1/8/1996,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Meng Li,Female,1/2/1995,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Yueru Li,Female,3/28/1999,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Xinyu Luo,Female,11/22/2001,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Tongtong Wu,Female,6/27/1994,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Liwei Yang,Female,1/2/1995,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Shuyu Yang,Female,3/6/2002,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Ru Zhang,Female,9/2/1999,People's Republic of China,CHN,Basketball,['Women'],
-2024,Summer,Mengran Sun,Female,7/16/1992,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Zhang Ning,Male,2/19/1997,People's Republic of China,CHN,3x3 Basketball,['Men'],
+2024,Summer,Zhu Yuanbo,Male,11/7/1993,People's Republic of China,CHN,3x3 Basketball,['Men'],
+2024,Summer,Lu Wenbo,Male,8/4/1997,People's Republic of China,CHN,3x3 Basketball,['Men'],
+2024,Summer,Zhao Jiaren,Male,1/6/1999,People's Republic of China,CHN,3x3 Basketball,['Men'],
+2024,Summer,Wan Jiyuan,Female,7/13/2002,People's Republic of China,CHN,3x3 Basketball,['Women'],
+2024,Summer,Chen Mingling,Female,7/25/2000,People's Republic of China,CHN,3x3 Basketball,['Women'],
+2024,Summer,Zhang Zhiting,Female,12/21/1995,People's Republic of China,CHN,3x3 Basketball,['Women'],
+2024,Summer,Wang Lili,Female,9/8/1992,People's Republic of China,CHN,3x3 Basketball,['Women'],
+2024,Summer,Wang Siyu,Female,10/16/1995,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Li Yuan,Female,5/29/2000,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Han Xu,Female,10/31/1999,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Huang Sijing,Female,1/8/1996,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Li Meng,Female,1/2/1995,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Li Yueru,Female,3/28/1999,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Luo Xinyu,Female,11/22/2001,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Wu Tongtong,Female,6/27/1994,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Yang Liwei,Female,1/2/1995,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Yang Shuyu,Female,3/6/2002,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Zhang Ru,Female,9/2/1999,People's Republic of China,CHN,Basketball,['Women'],
+2024,Summer,Sun Mengran,Female,7/16/1992,People's Republic of China,CHN,Basketball,['Women'],
 2024,Summer,Candida Estefany Arias Perez,Female,3/11/1992,Dominican Republic,DOM,Volleyball,['Women'],
 2024,Summer,Mai Yamamoto,Female,10/23/1999,Japan,JPN,Basketball,['Women'],
 2024,Summer,Stephanie Mawuli,Female,11/25/1998,Japan,JPN,Basketball,['Women'],
@@ -4206,26 +4206,26 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Miki Ishii,Female,11/7/1989,Japan,JPN,Beach Volleyball,['Women'],
 2024,Summer,Jeemin Ha,Male,3/21/1989,Republic of Korea,KOR,Sailing,"[""Men's Dinghy""]",
 2024,Summer,Gabriel Gerald Geay,Male,9/10/1996,United Republic of Tanzania,TAN,Athletics,"[""Men's Marathon""]",
-2024,Summer,Zhendong Fan,Male,1/22/1997,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team""]",Gold
-2024,Summer,Zhendong Fan,Male,1/22/1997,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team""]",Gold
-2024,Summer,Long Ma,Male,10/20/1988,People's Republic of China,CHN,Table Tennis,"[""Men's Team""]",Gold
-2024,Summer,Chuqin Wang,Male,5/11/2000,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",Gold
-2024,Summer,Chuqin Wang,Male,5/11/2000,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",Gold
-2024,Summer,Meng Chen,Female,1/15/1994,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team""]",Gold
-2024,Summer,Meng Chen,Female,1/15/1994,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team""]",Gold
-2024,Summer,Yingsha Sun,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Silver
-2024,Summer,Yingsha Sun,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Gold
-2024,Summer,Yingsha Sun,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Gold
-2024,Summer,Manyu Wang,Female,2/9/1999,People's Republic of China,CHN,Table Tennis,"[""Women's Team""]",Gold
+2024,Summer,Fan Zhendong,Male,1/22/1997,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team""]",Gold
+2024,Summer,Fan Zhendong,Male,1/22/1997,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team""]",Gold
+2024,Summer,Ma Long,Male,10/20/1988,People's Republic of China,CHN,Table Tennis,"[""Men's Team""]",Gold
+2024,Summer,Wang Chuqin,Male,5/11/2000,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",Gold
+2024,Summer,Wang Chuqin,Male,5/11/2000,People's Republic of China,CHN,Table Tennis,"[""Men's Singles"", ""Men's Team"", 'Mixed Doubles']",Gold
+2024,Summer,Chen Meng,Female,1/15/1994,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team""]",Gold
+2024,Summer,Chen Meng,Female,1/15/1994,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team""]",Gold
+2024,Summer,Sun Yingsha,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Silver
+2024,Summer,Sun Yingsha,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Gold
+2024,Summer,Sun Yingsha,Female,11/4/2000,People's Republic of China,CHN,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",Gold
+2024,Summer,Wang Manyu,Female,2/9/1999,People's Republic of China,CHN,Table Tennis,"[""Women's Team""]",Gold
 2024,Summer,Hussain Asim Al Hizam,Male,1/4/1998,Kingdom of Saudi Arabia,KSA,Athletics,"[""Men's Pole Vault""]",
 2024,Summer,Lilla Minna Abraham,Female,3/23/2006,Hungary,HUN,Swimming,"[""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 200m Freestyle Relay""]",
 2024,Summer,David Betlehem,Male,9/4/2003,Hungary,HUN,Swimming,"[""Men's 10km"", ""Men's 1500m Freestyle""]",Bronze
 2024,Summer,Joseph Jonathan Weston,Male,9/10/2004,Thailand,THA,Sailing,"[""Men's Kite""]",
-2024,Summer,Ziwei Mo,Male,12/30/1996,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
-2024,Summer,Bin Wu,Male,5/26/1998,People's Republic of China,CHN,Fencing,"[""Men's Foil Team""]",
-2024,Summer,Jie Xu,Male,1/6/2002,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
-2024,Summer,Haiwei Chen,Male,12/30/1994,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
-2024,Summer,Chenpeng Shen,Male,10/5/2001,People's Republic of China,CHN,Fencing,"[""Men's Sabre Individual""]",
+2024,Summer,Mo Ziwei,Male,12/30/1996,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
+2024,Summer,Wu Bin,Male,5/26/1998,People's Republic of China,CHN,Fencing,"[""Men's Foil Team""]",
+2024,Summer,Xu Jie,Male,1/6/2002,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
+2024,Summer,Chen Haiwei,Male,12/30/1994,People's Republic of China,CHN,Fencing,"[""Men's Foil Individual"", ""Men's Foil Team""]",
+2024,Summer,Shen Chenpeng,Male,10/5/2001,People's Republic of China,CHN,Fencing,"[""Men's Sabre Individual""]",
 2024,Summer,Jade Gillet,Female,1/30/2001,France,FRA,Diving,"[""Women's Synchronised 10m Platform""]",
 2024,Summer,Nais Gillet,Female,9/14/2002,France,FRA,Diving,"[""Women's Synchronised 3m Springboard""]",
 2024,Summer,Emily Hallifax,Female,12/9/2005,France,FRA,Diving,"[""Women's Synchronised 10m Platform""]",
@@ -4236,18 +4236,18 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Alexis Jandard,Male,4/23/1997,France,FRA,Diving,"[""Men's Synchronised 3m Springboard""]",
 2024,Summer,Lois Szymczak,Male,3/8/1993,France,FRA,Diving,"[""Men's Synchronised 10m Platform""]",
 2024,Summer,Benyapa Jantawan,Female,4/10/1984,Thailand,THA,Sailing,"[""Women's Kite""]",
-2024,Summer,Zijie Wang,Male,7/15/1996,People's Republic of China,CHN,Fencing,"[""Men's Épée Individual""]",
+2024,Summer,Wang Zijie,Male,7/15/1996,People's Republic of China,CHN,Fencing,"[""Men's Épée Individual""]",
 2024,Summer,Bettina Fabian,Female,12/13/2004,Hungary,HUN,Marathon Swimming,"[""Women's 10km""]",
-2024,Summer,Qingyuan Chen,Female,2/15/1997,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
-2024,Summer,Qianqian Huang,Female,2/23/2002,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
-2024,Summer,Yuting Wang,Female,3/23/2001,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
+2024,Summer,Chen Qingyuan,Female,2/15/1997,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
+2024,Summer,Huang Qianqian,Female,2/23/2002,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
+2024,Summer,Wang Yuting,Female,3/23/2001,People's Republic of China,CHN,Fencing,"[""Women's Foil Individual"", ""Women's Foil Team""]",
 2024,Summer,Elena Vorobeva,Female,4/18/1988,Croatia,CRO,Sailing,"[""Women's Dinghy""]",
 2024,Summer,Sime Fantela,Male,1/19/1986,Croatia,CRO,Sailing,"[""Men's Skiff""]",
 2024,Summer,Mihovil Fantela,Male,3/22/1990,Croatia,CRO,Sailing,"[""Men's Skiff""]",
-2024,Summer,Yiwen Sun,Female,6/17/1992,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
-2024,Summer,Junyao Tang,Female,8/10/2003,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
-2024,Summer,Nuo Xu,Female,3/5/1998,People's Republic of China,CHN,Fencing,"[""Women's Épée Team""]",
-2024,Summer,Sihan Yu,Female,7/24/2001,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
+2024,Summer,Sun Yiwen,Female,6/17/1992,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
+2024,Summer,Tang Junyao,Female,8/10/2003,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
+2024,Summer,Xu Nuo,Female,3/5/1998,People's Republic of China,CHN,Fencing,"[""Women's Épée Team""]",
+2024,Summer,Yu Sihan,Female,7/24/2001,People's Republic of China,CHN,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
 2024,Summer,Byeongkwang Choe,Male,4/7/1991,Republic of Korea,KOR,Athletics,"[""Men's 20km Race Walk""]",
 2024,Summer,Jangwoo Kim,Male,8/20/1999,Republic of Korea,KOR,Athletics,"[""Men's Triple Jump""]",
 2024,Summer,Sanghyeok Woo,Male,4/23/1996,Republic of Korea,KOR,Athletics,"[""Men's High Jump""]",
@@ -4807,7 +4807,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Salima Ahmadou Youssoufou,Female,10/21/2003,Niger,NIG,Swimming,"[""Women's 50m Freestyle""]",
 2024,Summer,Marouane Mamane Hamissou Abba,Male,1/21/2009,Niger,NIG,Swimming,"[""Men's 50m Freestyle""]",
 2024,Summer,Yonkaira Paola Pena Isabel,Female,5/10/1993,Dominican Republic,DOM,Volleyball,['Women'],
-2024,Summer,Hengyu Yang,Female,7/22/1996,People's Republic of China,CHN,Fencing,"[""Women's Sabre Individual""]",
+2024,Summer,Yang Hengyu,Female,7/22/1996,People's Republic of China,CHN,Fencing,"[""Women's Sabre Individual""]",
 2024,Summer,Rinka Matsuda,Female,12/5/2001,Japan,JPN,Rugby Sevens,['Women'],
 2024,Summer,Yukino Tsujisaki,Female,6/21/1994,Japan,JPN,Rugby Sevens,['Women'],
 2024,Summer,Arisa Nishi,Female,5/29/2004,Japan,JPN,Rugby Sevens,['Women'],
@@ -4842,23 +4842,23 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Iowane Teba,Male,2/23/1993,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Joseva Talacolo,Male,4/1/1997,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Kaminieli Rasaku,Male,7/12/1999,Fiji,FIJ,Rugby Sevens,['Men'],Silver
-2024,Summer,Yu Feng,Female,9/30/1999,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Hao Chang,Female,4/28/1997,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Wentao Cheng,Female,5/18/1998,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Ciyue Wang,Female,11/14/1999,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Yayi Zhang,Female,5/6/1997,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Liuyi Wang,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
-2024,Summer,Liuyi Wang,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
-2024,Summer,Qianyi Wang,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
-2024,Summer,Qianyi Wang,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
-2024,Summer,Yanning Xiao,Female,2/23/1998,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
-2024,Summer,Binxuan Xiang,Female,11/16/2001,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Feng Yu,Female,9/30/1999,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Chang Hao,Female,4/28/1997,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Cheng Wentao,Female,5/18/1998,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Wang Ciyue,Female,11/14/1999,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Zhang Yayi,Female,5/6/1997,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Wang Liuyi,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
+2024,Summer,Wang Liuyi,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
+2024,Summer,Wang Qianyi,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
+2024,Summer,Wang Qianyi,Female,1/16/1997,People's Republic of China,CHN,Artistic Swimming,"['Team', 'Duet']",Gold
+2024,Summer,Xiao Yanning,Female,2/23/1998,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
+2024,Summer,Xiang Binxuan,Female,11/16/2001,People's Republic of China,CHN,Artistic Swimming,['Team'],Gold
 2024,Summer,Sanaa Frederick,Female,1/3/2006,Trinidad and Tobago,TTO,Athletics,"[""Women's 4 x 100m Relay""]",
 2024,Summer,Sole Frederick,Female,1/3/2006,Trinidad and Tobago,TTO,Athletics,"[""Women's 4 x 100m Relay""]",
-2024,Summer,Chenxi Cui,Female,12/19/2009,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
-2024,Summer,Wenhui Zeng,Female,2/8/2005,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
-2024,Summer,Yuanling Zhu,Female,2/13/2011,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
-2024,Summer,Haohao Zheng,Female,8/11/2012,People's Republic of China,CHN,Skateboarding,"[""Women's Park""]",
+2024,Summer,Cui Chenxi,Female,12/19/2009,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
+2024,Summer,Zeng Wenhui,Female,2/8/2005,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
+2024,Summer,Zhu Yuanling,Female,2/13/2011,People's Republic of China,CHN,Skateboarding,"[""Women's Street""]",
+2024,Summer,Zheng Haohao,Female,8/11/2012,People's Republic of China,CHN,Skateboarding,"[""Women's Park""]",
 2024,Summer,Joji Nasova,Male,6/9/2000,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Filipe Sauturaga,Male,6/19/1994,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Jerry Tuwai,Male,3/23/1989,Fiji,FIJ,Rugby Sevens,['Men'],Silver
@@ -4892,12 +4892,12 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Heili Sirvio,Female,3/17/2011,Finland,FIN,Skateboarding,"[""Women's Park""]",
 2024,Summer,Petra Senanszky,Female,1/10/1994,Hungary,HUN,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 50m Freestyle""]",
 2024,Summer,Dunya Ali Abutaleb M,Female,6/17/1997,Kingdom of Saudi Arabia,KSA,Taekwondo,['Women -49kg'],
-2024,Summer,Kevin Yu,Male,8/11/1998,Chinese Taipei,TPE,Golf,"[""Men's Individual Stroke Play""]",
+2024,Summer,Yu Kevin,Male,8/11/1998,Chinese Taipei,TPE,Golf,"[""Men's Individual Stroke Play""]",
 2024,Summer,Jean Gael Laurent L'Entete,Male,8/8/1996,Mauritius,MRI,Triathlon,"[""Men's Individual""]",
 2024,Summer,Eszter Szabo-Feltothy,Female,1/4/2002,Hungary,HUN,Swimming,"[""Women's 200m Backstroke""]",
-2024,Summer,Wei-Ling Hsu,Female,10/20/1994,Chinese Taipei,TPE,Golf,"[""Women's Individual Stroke Play""]",
+2024,Summer,Hsu Wei-Ling,Female,10/20/1994,Chinese Taipei,TPE,Golf,"[""Women's Individual Stroke Play""]",
 2024,Summer,Szebasztian Szabo,Male,3/11/1996,Hungary,HUN,Swimming,"[""Men's 4 x 100m Freestyle Relay"", ""Men's 50m Freestyle""]",
-2024,Summer,Pei-Yun Chien,Female,10/22/1990,Chinese Taipei,TPE,Golf,"[""Women's Individual Stroke Play""]",
+2024,Summer,Chien Pei-Yun,Female,10/22/1990,Chinese Taipei,TPE,Golf,"[""Women's Individual Stroke Play""]",
 2024,Summer,Mohamed Osman Elhaddad,Male,9/22/2000,Egypt,EGY,Volleyball,['Men'],
 2024,Summer,Anastasiia Kirpichnikova,Female,6/24/2000,France,FRA,Swimming,"[""Women's 1500m Freestyle"", ""Women's 400m Freestyle"", ""Women's 4 x 200m Freestyle Relay"", ""Women's 800m Freestyle""]",Silver
 2024,Summer,Charlotte Bonnet,Female,2/14/1995,France,FRA,Swimming,"[""Women's 200m Individual Medley"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay""]",
@@ -4972,12 +4972,12 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Jasmine Paolini,Female,1/4/1996,Italy,ITA,Tennis,"[""Women's Doubles"", ""Women's Singles""]",Gold
 2024,Summer,Ingrid Puusta,Female,11/8/1990,Estonia,EST,Sailing,"[""Women's Windsurfing""]",
 2024,Summer,Ahmed Koka,Male,7/4/2001,Egypt,EGY,Football,['Men'],
-2024,Summer,Zhaoxiang Song,Male,1/29/1997,People's Republic of China,CHN,Taekwondo,['Men +80kg'],
-2024,Summer,Yushuai Liang,Male,9/10/2000,People's Republic of China,CHN,Taekwondo,['Men -68kg'],Bronze
-2024,Summer,Zeqi Zhou,Female,9/25/1999,People's Republic of China,CHN,Taekwondo,['Women +67kg'],
-2024,Summer,Qing Guo,Female,5/16/2000,People's Republic of China,CHN,Taekwondo,['Women -49kg'],Silver
-2024,Summer,Zongshi Luo,Female,10/14/1998,People's Republic of China,CHN,Taekwondo,['Women -57kg'],
-2024,Summer,Jie Song,Female,1/23/1999,People's Republic of China,CHN,Taekwondo,['Women -67kg'],
+2024,Summer,Song Zhaoxiang,Male,1/29/1997,People's Republic of China,CHN,Taekwondo,['Men +80kg'],
+2024,Summer,Liang Yushuai,Male,9/10/2000,People's Republic of China,CHN,Taekwondo,['Men -68kg'],Bronze
+2024,Summer,Zhou Zeqi,Female,9/25/1999,People's Republic of China,CHN,Taekwondo,['Women +67kg'],
+2024,Summer,Guo Qing,Female,5/16/2000,People's Republic of China,CHN,Taekwondo,['Women -49kg'],Silver
+2024,Summer,Luo Zongshi,Female,10/14/1998,People's Republic of China,CHN,Taekwondo,['Women -57kg'],
+2024,Summer,Song Jie,Female,1/23/1999,People's Republic of China,CHN,Taekwondo,['Women -67kg'],
 2024,Summer,Kristin Kuuba,Female,2/15/1997,Estonia,EST,Badminton,"[""Women's Singles""]",
 2024,Summer,Mercy Chebet,Female,1/2/2002,Kenya,KEN,Athletics,['4 x 400m Relay Mixed'],
 2024,Summer,Boniface Ontuga Mweresa,Male,11/13/1993,Kenya,KEN,Athletics,['4 x 400m Relay Mixed'],
@@ -5224,36 +5224,36 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Misaki Nobata,Female,8/25/2003,Japan,JPN,Shooting,"['10m Air Rifle Women', '10m Air Rifle Mixed Team']",
 2024,Summer,Dai Yoshioka,Male,12/14/1985,Japan,JPN,Shooting,['25m Rapid Fire Pistol Men'],
 2024,Summer,Naoya Okada,Male,10/10/1990,Japan,JPN,Shooting,"['10m Air Rifle Men', '50m Rifle 3 Positions Men', '10m Air Rifle Mixed Team']",
-2024,Summer,Zecheng Dou,Male,1/22/1997,People's Republic of China,CHN,Golf,"[""Men's Individual Stroke Play""]",
-2024,Summer,Yechun Yuan,Male,3/21/1997,People's Republic of China,CHN,Golf,"[""Men's Individual Stroke Play""]",
-2024,Summer,Xiyu Janet Lin,Female,2/25/1996,People's Republic of China,CHN,Golf,"[""Women's Individual Stroke Play""]",Bronze
-2024,Summer,Ruoning Yin,Female,9/28/2002,People's Republic of China,CHN,Golf,"[""Women's Individual Stroke Play""]",
+2024,Summer,Dou Zecheng,Male,1/22/1997,People's Republic of China,CHN,Golf,"[""Men's Individual Stroke Play""]",
+2024,Summer,Yuan Yechun,Male,3/21/1997,People's Republic of China,CHN,Golf,"[""Men's Individual Stroke Play""]",
+2024,Summer,Lin Xiyu Janet,Female,2/25/1996,People's Republic of China,CHN,Golf,"[""Women's Individual Stroke Play""]",Bronze
+2024,Summer,Yin Ruoning,Female,9/28/2002,People's Republic of China,CHN,Golf,"[""Women's Individual Stroke Play""]",
 2024,Summer,Terio Tamani Veilawa,Male,7/6/1994,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Waisea Nacuqu,Male,5/24/1993,Fiji,FIJ,Rugby Sevens,['Men'],Silver
 2024,Summer,Lynnzee Brown,Female,9/4/1998,Haiti,HAI,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault""]",
 2024,Summer,Jeremaia Matana,Male,7/14/1998,Fiji,FIJ,Rugby Sevens,['Men'],Silver
-2024,Summer,Wenchao Kao,Male,11/29/2000,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team""]",
-2024,Summer,Zhongyuan Li,Male,8/19/2002,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team""]",
-2024,Summer,Yan Wang,Male,2/12/2000,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team"", 'Mixed Team']",
-2024,Summer,Jiaman Li,Female,8/18/1997,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team""]",Silver
-2024,Summer,Xiaolei Yang,Female,6/28/2000,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team"", 'Mixed Team']",Silver
-2024,Summer,Qixuan An,Female,12/3/2000,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team""]",Silver
-2024,Summer,Yan Zhe Feng,Male,2/13/2001,People's Republic of China,CHN,Badminton,['Mixed Doubles'],
-2024,Summer,Si Wei Zheng,Male,2/26/1997,People's Republic of China,CHN,Badminton,['Mixed Doubles'],Gold
-2024,Summer,Shi Feng Li,Male,1/9/2000,People's Republic of China,CHN,Badminton,"[""Men's Singles""]",
-2024,Summer,Yu Qi Shi,Male,2/28/1996,People's Republic of China,CHN,Badminton,"[""Men's Singles""]",
-2024,Summer,Wei Keng Liang,Male,11/30/2000,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",Silver
-2024,Summer,Yu Chen Liu,Male,7/25/1995,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",
-2024,Summer,Xuan Yi Ou,Male,1/23/1994,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",
-2024,Summer,Chang Wang,Male,5/7/2001,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",Silver
-2024,Summer,Dong Ping Huang,Female,1/20/1995,People's Republic of China,CHN,Badminton,['Mixed Doubles'],
-2024,Summer,Ya Qiong Huang,Female,2/28/1994,People's Republic of China,CHN,Badminton,['Mixed Doubles'],Gold
-2024,Summer,Yu Fei Chen,Female,3/1/1998,People's Republic of China,CHN,Badminton,"[""Women's Singles""]",
-2024,Summer,Bing Jiao He,Female,3/21/1997,People's Republic of China,CHN,Badminton,"[""Women's Singles""]",Silver
-2024,Summer,Qing Chen Chen,Female,6/23/1997,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Gold
-2024,Summer,Yi Fan Jia,Female,6/29/1997,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Gold
-2024,Summer,Sheng Shu Liu,Female,4/8/2004,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Silver
-2024,Summer,Ning Tan,Female,4/3/2003,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Silver
+2024,Summer,Kao Wenchao,Male,11/29/2000,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team""]",
+2024,Summer,Li Zhongyuan,Male,8/19/2002,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team""]",
+2024,Summer,Wang Yan,Male,2/12/2000,People's Republic of China,CHN,Archery,"[""Men's Individual"", ""Men's Team"", 'Mixed Team']",
+2024,Summer,Li Jiaman,Female,8/18/1997,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team""]",Silver
+2024,Summer,Yang Xiaolei,Female,6/28/2000,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team"", 'Mixed Team']",Silver
+2024,Summer,An Qixuan,Female,12/3/2000,People's Republic of China,CHN,Archery,"[""Women's Individual"", ""Women's Team""]",Silver
+2024,Summer,Feng Yan Zhe,Male,2/13/2001,People's Republic of China,CHN,Badminton,['Mixed Doubles'],
+2024,Summer,Zheng Si Wei,Male,2/26/1997,People's Republic of China,CHN,Badminton,['Mixed Doubles'],Gold
+2024,Summer,Li Shi Feng,Male,1/9/2000,People's Republic of China,CHN,Badminton,"[""Men's Singles""]",
+2024,Summer,Shi Yu Qi,Male,2/28/1996,People's Republic of China,CHN,Badminton,"[""Men's Singles""]",
+2024,Summer,Liang Wei Keng,Male,11/30/2000,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",Silver
+2024,Summer,Liu Yu Chen,Male,7/25/1995,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",
+2024,Summer,Ou Xuan Yi,Male,1/23/1994,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",
+2024,Summer,Wang Chang,Male,5/7/2001,People's Republic of China,CHN,Badminton,"[""Men's Doubles""]",Silver
+2024,Summer,Huang Dong Ping,Female,1/20/1995,People's Republic of China,CHN,Badminton,['Mixed Doubles'],
+2024,Summer,Huang Ya Qiong,Female,2/28/1994,People's Republic of China,CHN,Badminton,['Mixed Doubles'],Gold
+2024,Summer,Chen Yu Fei,Female,3/1/1998,People's Republic of China,CHN,Badminton,"[""Women's Singles""]",
+2024,Summer,He Bing Jiao,Female,3/21/1997,People's Republic of China,CHN,Badminton,"[""Women's Singles""]",Silver
+2024,Summer,Chen Qing Chen,Female,6/23/1997,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Gold
+2024,Summer,Jia Yi Fan,Female,6/29/1997,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Gold
+2024,Summer,Liu Sheng Shu,Female,4/8/2004,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Silver
+2024,Summer,Tan Ning,Female,4/3/2003,People's Republic of China,CHN,Badminton,"[""Women's Doubles""]",Silver
 2024,Summer,Yesugen Oyuntsetseg,Female,1/9/2001,Mongolia,MGL,Boxing,"[""Women's 50kg""]",
 2024,Summer,Enkhjargal Munguntsetseg,Female,4/18/1999,Mongolia,MGL,Boxing,"[""Women's 54kg""]",
 2024,Summer,Connor O'Leary,Male,10/12/1993,Japan,JPN,Surfing,['Men'],
@@ -5267,27 +5267,27 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Shudai Harada,Male,10/2/2001,Japan,JPN,Boxing,"[""Men's 57kg""]",
 2024,Summer,Sewonrets Quincy Mensah Okazawa,Male,12/21/1995,Japan,JPN,Boxing,"[""Men's 71kg""]",
 2024,Summer,Arif Pangestu,Male,3/25/2004,Indonesia,INA,Archery,"[""Men's Individual"", 'Mixed Team']",
-2024,Summer,Linyu Diao,Female,4/7/1994,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Xia Ding,Female,1/13/1990,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Yi Gao,Female,7/22/1998,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Xiangyu Gong,Female,4/21/1997,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Yingying Li,Female,2/19/2000,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Mengjie Wang,Female,11/14/1995,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Mengjie Wu,Female,9/10/2002,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Xinyue Yuan,Female,12/21/1996,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Changning Zhang,Female,11/6/1995,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Yushan Zhuang,Female,4/28/2003,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Yuanyuan Wang,Female,7/14/1997,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Yixin Zheng,Female,5/6/1995,People's Republic of China,CHN,Volleyball,['Women'],
-2024,Summer,Ting Zhu,Female,11/29/1994,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Diao Linyu,Female,4/7/1994,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Ding Xia,Female,1/13/1990,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Gao Yi,Female,7/22/1998,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Gong Xiangyu,Female,4/21/1997,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Li Yingying,Female,2/19/2000,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Wang Mengjie,Female,11/14/1995,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Wu Mengjie,Female,9/10/2002,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Yuan Xinyue,Female,12/21/1996,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Zhang Changning,Female,11/6/1995,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Zhuang Yushan,Female,4/28/2003,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Wang Yuanyuan,Female,7/14/1997,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Zheng Yixin,Female,5/6/1995,People's Republic of China,CHN,Volleyball,['Women'],
+2024,Summer,Zhu Ting,Female,11/29/1994,People's Republic of China,CHN,Volleyball,['Women'],
 2024,Summer,Rosina Randafiarison,Female,12/29/1999,Madagascar,MAD,Weightlifting,"[""Women's 49kg""]",
-2024,Summer,Yuetong Zhang,Female,2/22/2003,People's Republic of China,CHN,Sport Climbing,"[""Women's Boulder & Lead""]",
-2024,Summer,Yufei Pan,Male,6/23/2000,People's Republic of China,CHN,Sport Climbing,"[""Men's Boulder & Lead""]",
-2024,Summer,Zhilu Luo,Female,1/11/2006,People's Republic of China,CHN,Sport Climbing,"[""Women's Boulder & Lead""]",
-2024,Summer,Jinbao Long,Male,11/8/2000,People's Republic of China,CHN,Sport Climbing,"[""Men's Speed""]",
-2024,Summer,Peng Wu,Male,10/15/2002,People's Republic of China,CHN,Sport Climbing,"[""Men's Speed""]",Silver
-2024,Summer,Yafei Zhou,Female,5/15/2004,People's Republic of China,CHN,Sport Climbing,"[""Women's Speed""]",
-2024,Summer,Lijuan Deng,Female,5/12/2000,People's Republic of China,CHN,Sport Climbing,"[""Women's Speed""]",Silver
+2024,Summer,Zhang Yuetong,Female,2/22/2003,People's Republic of China,CHN,Sport Climbing,"[""Women's Boulder & Lead""]",
+2024,Summer,Pan Yufei,Male,6/23/2000,People's Republic of China,CHN,Sport Climbing,"[""Men's Boulder & Lead""]",
+2024,Summer,Luo Zhilu,Female,1/11/2006,People's Republic of China,CHN,Sport Climbing,"[""Women's Boulder & Lead""]",
+2024,Summer,Long Jinbao,Male,11/8/2000,People's Republic of China,CHN,Sport Climbing,"[""Men's Speed""]",
+2024,Summer,Wu Peng,Male,10/15/2002,People's Republic of China,CHN,Sport Climbing,"[""Men's Speed""]",Silver
+2024,Summer,Zhou Yafei,Female,5/15/2004,People's Republic of China,CHN,Sport Climbing,"[""Women's Speed""]",
+2024,Summer,Deng Lijuan,Female,5/12/2000,People's Republic of China,CHN,Sport Climbing,"[""Women's Speed""]",Silver
 2024,Summer,Sebastian Brendel,Male,3/12/1988,Germany,GER,Canoe Sprint,"[""Men's Canoe Single 1000m""]",
 2024,Summer,Peter Kretschmer,Male,2/15/1992,Germany,GER,Canoe Sprint,"[""Men's Canoe Double 500m""]",
 2024,Summer,Max Lemke,Male,12/2/1996,Germany,GER,Canoe Sprint,"[""Men's Kayak Double 500m"", ""Men's Kayak Four 500m""]",Gold
@@ -5319,32 +5319,32 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Iszmail Muszukajev,Male,1/28/1993,Hungary,HUN,Wrestling,"[""Men's Freestyle 65kg""]",
 2024,Summer,Bernadett Nagy,Female,11/19/2000,Hungary,HUN,Wrestling,"[""Women's Freestyle 76kg""]",
 2024,Summer,Syifa Nurafifah Kamal,Female,10/1/1991,Indonesia,INA,Archery,"[""Women's Individual"", ""Women's Team""]",
-2024,Summer,Linshu Du,Male,4/5/2003,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '50m Rifle 3 Positions Men', '10m Air Rifle Mixed Team']",
-2024,Summer,Lihao Sheng,Male,12/4/2004,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '10m Air Rifle Mixed Team']",Gold
-2024,Summer,Lihao Sheng,Male,12/4/2004,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '10m Air Rifle Mixed Team']",Gold
-2024,Summer,Yu Xie,Male,6/12/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Men', '10m Air Pistol Mixed Team']",Gold
-2024,Summer,Bowen Zhang,Male,4/28/1996,People's Republic of China,CHN,Shooting,"['10m Air Pistol Men', '10m Air Pistol Mixed Team']",
-2024,Summer,Yuehong Li,Male,8/28/1989,People's Republic of China,CHN,Shooting,['25m Rapid Fire Pistol Men'],Gold
-2024,Summer,Xinjie Wang,Male,10/24/1996,People's Republic of China,CHN,Shooting,['25m Rapid Fire Pistol Men'],Bronze
-2024,Summer,Yukun Liu,Male,4/12/1997,People's Republic of China,CHN,Shooting,['50m Rifle 3 Positions Men'],Gold
-2024,Summer,Ying Qi,Male,1/23/1997,People's Republic of China,CHN,Shooting,['Trap Men'],Silver
-2024,Summer,Haicheng Yu,Male,4/5/1998,People's Republic of China,CHN,Shooting,['Trap Men'],
-2024,Summer,Jiayu Han,Female,12/24/2001,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '50m Rifle 3 Positions Women', '10m Air Rifle Mixed Team']",
-2024,Summer,Yuting Huang,Female,9/3/2006,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '10m Air Rifle Mixed Team']",Silver
-2024,Summer,Yuting Huang,Female,9/3/2006,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '10m Air Rifle Mixed Team']",Gold
-2024,Summer,Ranxin Jiang,Female,5/2/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Women', '10m Air Pistol Mixed Team']",
-2024,Summer,Xue Li,Female,1/20/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Women', '10m Air Pistol Mixed Team']",
-2024,Summer,Nan Zhao,Female,5/14/2004,People's Republic of China,CHN,Shooting,['25m Pistol Women'],
-2024,Summer,Xiaoya Liang,Female,4/20/2007,People's Republic of China,CHN,Shooting,['25m Pistol Women'],
-2024,Summer,Qiongyue Zhang,Female,3/12/2004,People's Republic of China,CHN,Shooting,['50m Rifle 3 Positions Women'],Bronze
-2024,Summer,Cuicui Wu,Female,12/16/1987,People's Republic of China,CHN,Shooting,['Trap Women'],
-2024,Summer,Xinqiu Zhang,Female,9/3/1994,People's Republic of China,CHN,Shooting,['Trap Women'],
-2024,Summer,Yiting Jiang,Female,8/1/2004,People's Republic of China,CHN,Shooting,"['Skeet Women', 'Skeet Mixed Team']",Bronze
-2024,Summer,Meng Wei,Female,6/14/1989,People's Republic of China,CHN,Shooting,['Skeet Women'],
+2024,Summer,Du Linshu,Male,4/5/2003,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '50m Rifle 3 Positions Men', '10m Air Rifle Mixed Team']",
+2024,Summer,Sheng Lihao,Male,12/4/2004,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '10m Air Rifle Mixed Team']",Gold
+2024,Summer,Sheng Lihao,Male,12/4/2004,People's Republic of China,CHN,Shooting,"['10m Air Rifle Men', '10m Air Rifle Mixed Team']",Gold
+2024,Summer,Xie Yu,Male,6/12/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Men', '10m Air Pistol Mixed Team']",Gold
+2024,Summer,Zhang Bowen,Male,4/28/1996,People's Republic of China,CHN,Shooting,"['10m Air Pistol Men', '10m Air Pistol Mixed Team']",
+2024,Summer,Li Yuehong,Male,8/28/1989,People's Republic of China,CHN,Shooting,['25m Rapid Fire Pistol Men'],Gold
+2024,Summer,Wang Xinjie,Male,10/24/1996,People's Republic of China,CHN,Shooting,['25m Rapid Fire Pistol Men'],Bronze
+2024,Summer,Liu Yukun,Male,4/12/1997,People's Republic of China,CHN,Shooting,['50m Rifle 3 Positions Men'],Gold
+2024,Summer,Qi Ying,Male,1/23/1997,People's Republic of China,CHN,Shooting,['Trap Men'],Silver
+2024,Summer,Yu Haicheng,Male,4/5/1998,People's Republic of China,CHN,Shooting,['Trap Men'],
+2024,Summer,Han Jiayu,Female,12/24/2001,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '50m Rifle 3 Positions Women', '10m Air Rifle Mixed Team']",
+2024,Summer,Huang Yuting,Female,9/3/2006,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '10m Air Rifle Mixed Team']",Silver
+2024,Summer,Huang Yuting,Female,9/3/2006,People's Republic of China,CHN,Shooting,"['10m Air Rifle Women', '10m Air Rifle Mixed Team']",Gold
+2024,Summer,Jiang Ranxin,Female,5/2/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Women', '10m Air Pistol Mixed Team']",
+2024,Summer,Li Xue,Female,1/20/2000,People's Republic of China,CHN,Shooting,"['10m Air Pistol Women', '10m Air Pistol Mixed Team']",
+2024,Summer,Zhao Nan,Female,5/14/2004,People's Republic of China,CHN,Shooting,['25m Pistol Women'],
+2024,Summer,Liang Xiaoya,Female,4/20/2007,People's Republic of China,CHN,Shooting,['25m Pistol Women'],
+2024,Summer,Zhang Qiongyue,Female,3/12/2004,People's Republic of China,CHN,Shooting,['50m Rifle 3 Positions Women'],Bronze
+2024,Summer,Wu Cuicui,Female,12/16/1987,People's Republic of China,CHN,Shooting,['Trap Women'],
+2024,Summer,Zhang Xinqiu,Female,9/3/1994,People's Republic of China,CHN,Shooting,['Trap Women'],
+2024,Summer,Jiang Yiting,Female,8/1/2004,People's Republic of China,CHN,Shooting,"['Skeet Women', 'Skeet Mixed Team']",Bronze
+2024,Summer,Wei Meng,Female,6/14/1989,People's Republic of China,CHN,Shooting,['Skeet Women'],
 2024,Summer,Diananda Choirunisa,Female,3/16/1997,Indonesia,INA,Archery,"[""Women's Individual"", ""Women's Team"", 'Mixed Team']",
-2024,Summer,Shuhuan Li,Male,10/25/1996,People's Republic of China,CHN,Modern Pentathlon,"[""Men's Individual""]",
-2024,Summer,Shuai Luo,Male,4/16/1997,People's Republic of China,CHN,Modern Pentathlon,"[""Men's Individual""]",
-2024,Summer,Mingyu Zhang,Female,10/3/2001,People's Republic of China,CHN,Modern Pentathlon,"[""Women's Individual""]",
+2024,Summer,Li Shuhuan,Male,10/25/1996,People's Republic of China,CHN,Modern Pentathlon,"[""Men's Individual""]",
+2024,Summer,Luo Shuai,Male,4/16/1997,People's Republic of China,CHN,Modern Pentathlon,"[""Men's Individual""]",
+2024,Summer,Zhang Mingyu,Female,10/3/2001,People's Republic of China,CHN,Modern Pentathlon,"[""Women's Individual""]",
 2024,Summer,Ariunbold Enkhtaivan,Male,10/8/1995,Mongolia,MGL,Judo,"['Men -60 kg', 'Mixed Team']",
 2024,Summer,Baskhuu Yondonperenlei,Male,10/1/1993,Mongolia,MGL,Judo,"['Men -66 kg', 'Mixed Team']",
 2024,Summer,Gonchigsuren Batkhuyag,Male,8/25/1999,Mongolia,MGL,Judo,"['Men -100 kg', 'Mixed Team']",
@@ -5583,26 +5583,26 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Catalina Usme,Female,12/25/1989,Colombia,COL,Football,['Women'],
 2024,Summer,Manuela Vanegas,Female,11/9/2000,Colombia,COL,Football,['Women'],
 2024,Summer,Talei Wilson,Female,9/3/1995,Fiji,FIJ,Rugby Sevens,['Women'],
-2024,Summer,Huanhua Liu,Male,8/20/2001,People's Republic of China,CHN,Weightlifting,"[""Men's 102kg""]",Gold
-2024,Summer,Fabin Li,Male,1/15/1993,People's Republic of China,CHN,Weightlifting,"[""Men's 61kg""]",Gold
-2024,Summer,Zhiyong Shi,Male,10/10/1993,People's Republic of China,CHN,Weightlifting,"[""Men's 73kg""]",
-2024,Summer,Wenwen Li,Female,3/5/2000,People's Republic of China,CHN,Weightlifting,"[""Women's +81kg""]",Gold
-2024,Summer,Zhihui Hou,Female,3/18/1997,People's Republic of China,CHN,Weightlifting,"[""Women's 49kg""]",Gold
-2024,Summer,Shifang Luo,Female,4/2/2001,People's Republic of China,CHN,Weightlifting,"[""Women's 59kg""]",Gold
-2024,Summer,Zhiyu Liu,Male,1/5/1993,People's Republic of China,CHN,Rowing,"[""Men's Double Sculls""]",
-2024,Summer,Xiuping Qiu,Female,10/14/1999,People's Republic of China,CHN,Rowing,"[""Lightweight Women's Double Sculls""]",
-2024,Summer,Jiaqi Zou,Female,11/4/2001,People's Republic of China,CHN,Rowing,"[""Lightweight Women's Double Sculls""]",
-2024,Summer,Shiyu Lu,Female,2/3/1999,People's Republic of China,CHN,Rowing,"[""Women's Double Sculls""]",
-2024,Summer,Zifeng Wang,Female,9/12/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
-2024,Summer,Shuxian Zhang,Female,11/17/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
-2024,Summer,Yunxia Chen,Female,12/5/1995,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
-2024,Summer,Xiaotong Cui,Female,11/21/1994,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
-2024,Summer,Yang Lyu,Female,11/26/1993,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
-2024,Summer,Ling Zhang,Female,2/27/1997,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
-2024,Summer,Adilijiang Sulitan,Male,7/6/2000,People's Republic of China,CHN,Rowing,"[""Men's Double Sculls""]",
-2024,Summer,Shuangmei Shen,Female,5/2/1998,People's Republic of China,CHN,Rowing,"[""Women's Double Sculls""]",
-2024,Summer,Xiaoxin Liu,Female,7/24/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
-2024,Summer,Xingye Xu,Female,2/24/1998,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
+2024,Summer,Liu Huanhua,Male,8/20/2001,People's Republic of China,CHN,Weightlifting,"[""Men's 102kg""]",Gold
+2024,Summer,Li Fabin,Male,1/15/1993,People's Republic of China,CHN,Weightlifting,"[""Men's 61kg""]",Gold
+2024,Summer,Shi Zhiyong,Male,10/10/1993,People's Republic of China,CHN,Weightlifting,"[""Men's 73kg""]",
+2024,Summer,Li Wenwen,Female,3/5/2000,People's Republic of China,CHN,Weightlifting,"[""Women's +81kg""]",Gold
+2024,Summer,Hou Zhihui,Female,3/18/1997,People's Republic of China,CHN,Weightlifting,"[""Women's 49kg""]",Gold
+2024,Summer,Luo Shifang,Female,4/2/2001,People's Republic of China,CHN,Weightlifting,"[""Women's 59kg""]",Gold
+2024,Summer,Liu Zhiyu,Male,1/5/1993,People's Republic of China,CHN,Rowing,"[""Men's Double Sculls""]",
+2024,Summer,Qiu Xiuping,Female,10/14/1999,People's Republic of China,CHN,Rowing,"[""Lightweight Women's Double Sculls""]",
+2024,Summer,Zou Jiaqi,Female,11/4/2001,People's Republic of China,CHN,Rowing,"[""Lightweight Women's Double Sculls""]",
+2024,Summer,Lu Shiyu,Female,2/3/1999,People's Republic of China,CHN,Rowing,"[""Women's Double Sculls""]",
+2024,Summer,Wang Zifeng,Female,9/12/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
+2024,Summer,Zhang Shuxian,Female,11/17/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
+2024,Summer,Chen Yunxia,Female,12/5/1995,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
+2024,Summer,Cui Xiaotong,Female,11/21/1994,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
+2024,Summer,Lyu Yang,Female,11/26/1993,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
+2024,Summer,Zhang Ling,Female,2/27/1997,People's Republic of China,CHN,Rowing,"[""Women's Quadruple Sculls""]",
+2024,Summer,Sulitan Adilijiang,Male,7/6/2000,People's Republic of China,CHN,Rowing,"[""Men's Double Sculls""]",
+2024,Summer,Shen Shuangmei,Female,5/2/1998,People's Republic of China,CHN,Rowing,"[""Women's Double Sculls""]",
+2024,Summer,Liu Xiaoxin,Female,7/24/1997,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
+2024,Summer,Xu Xingye,Female,2/24/1998,People's Republic of China,CHN,Rowing,"[""Women's Four""]",
 2024,Summer,Jai Angsuthasawit,Male,2/16/1995,Thailand,THA,Cycling Track,"[""Men's Keirin"", ""Men's Sprint""]",
 2024,Summer,Nanami Seki,Female,6/12/1999,Japan,JPN,Volleyball,['Women'],
 2024,Summer,Ayaka Araki,Female,9/2/2001,Japan,JPN,Volleyball,['Women'],
@@ -5630,10 +5630,10 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Yuji Nishida,Male,1/30/2000,Japan,JPN,Volleyball,['Men'],
 2024,Summer,Masahiro Sekita,Male,11/20/1993,Japan,JPN,Volleyball,['Men'],
 2024,Summer,Georgia-Rose Brown,Female,1/22/1995,New Zealand,NZL,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault""]",
-2024,Summer,Langyu Yan,Male,8/31/1999,People's Republic of China,CHN,Trampoline Gymnastics,['Men'],Bronze
-2024,Summer,Zisai Wang,Male,6/18/2006,People's Republic of China,CHN,Trampoline Gymnastics,['Men'],Silver
-2024,Summer,Xueying Zhu,Female,3/2/1998,People's Republic of China,CHN,Trampoline Gymnastics,['Women'],
-2024,Summer,Yicheng Hu,Female,11/13/1998,People's Republic of China,CHN,Trampoline Gymnastics,['Women'],
+2024,Summer,Yan Langyu,Male,8/31/1999,People's Republic of China,CHN,Trampoline Gymnastics,['Men'],Bronze
+2024,Summer,Wang Zisai,Male,6/18/2006,People's Republic of China,CHN,Trampoline Gymnastics,['Men'],Silver
+2024,Summer,Zhu Xueying,Female,3/2/1998,People's Republic of China,CHN,Trampoline Gymnastics,['Women'],
+2024,Summer,Hu Yicheng,Female,11/13/1998,People's Republic of China,CHN,Trampoline Gymnastics,['Women'],
 2024,Summer,Komet Sukprasert,Male,6/12/2000,Thailand,THA,Cycling BMX Racing,['Men'],
 2024,Summer,Erica Dawson,Female,7/24/1994,New Zealand,NZL,Sailing,['Mixed Multihull'],Bronze
 2024,Summer,McHARDIE Isaac,Male,7/6/1997,New Zealand,NZL,Sailing,"[""Men's Skiff""]",Silver
@@ -5648,68 +5648,68 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Justina Kitchen,Female,4/11/1989,New Zealand,NZL,Sailing,"[""Women's Kite""]",
 2024,Summer,Thomas Saunders,Male,7/16/1992,New Zealand,NZL,Sailing,"[""Men's Dinghy""]",
 2024,Summer,Sosorbaram Lkhagvasuren,Female,3/22/2001,Mongolia,MGL,Judo,"['Women -52 kg', 'Mixed Team']",
-2024,Summer,Yang Liu,Male,8/11/1994,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Gold
-2024,Summer,Yang Liu,Male,8/11/1994,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Weide Su,Male,3/19/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Ruoteng Xiao,Male,1/30/1996,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Bronze
-2024,Summer,Ruoteng Xiao,Male,1/30/1996,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Boheng Zhang,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Boheng Zhang,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Bronze
-2024,Summer,Boheng Zhang,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Jingyuan Zou,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Jingyuan Zou,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Gold
-2024,Summer,Jingyuan Zou,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
-2024,Summer,Huan Luo,Female,3/6/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
-2024,Summer,Yushan Ou,Female,1/13/2004,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
-2024,Summer,Qiyuan Qiu,Female,5/24/2007,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",Silver
-2024,Summer,Yihan Zhang,Female,1/24/2008,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
+2024,Summer,Liu Yang,Male,8/11/1994,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Gold
+2024,Summer,Liu Yang,Male,8/11/1994,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Su Weide,Male,3/19/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Xiao Ruoteng,Male,1/30/1996,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Bronze
+2024,Summer,Xiao Ruoteng,Male,1/30/1996,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Zhang Boheng,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Zhang Boheng,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Bronze
+2024,Summer,Zhang Boheng,Male,3/4/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Zou Jingyuan,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Zou Jingyuan,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Gold
+2024,Summer,Zou Jingyuan,Male,1/3/1998,People's Republic of China,CHN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",Silver
+2024,Summer,Luo Huan,Female,3/6/2000,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
+2024,Summer,Ou Yushan,Female,1/13/2004,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
+2024,Summer,Qiu Qiyuan,Female,5/24/2007,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",Silver
+2024,Summer,Zhang Yihan,Female,1/24/2008,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
 2024,Summer,Khuslen Otgonbayar,Female,10/26/2004,Mongolia,MGL,Judo,"['Women -78 kg', 'Mixed Team']",
-2024,Summer,Yaqin Zhou,Female,11/12/2005,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",Silver
+2024,Summer,Zhou Yaqin,Female,11/12/2005,People's Republic of China,CHN,Artistic Gymnastics,"['Women', ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",Silver
 2024,Summer,Enkhriilen Lkhagvatogoo,Female,12/28/1998,Mongolia,MGL,Judo,"['Women -57 kg', 'Mixed Team']",
 2024,Summer,Apisit Jaiyoo,Male,6/25/2004,Thailand,THA,Cycling BMX Racing,['Men'],
-2024,Summer,Jinfeng Chen,Male,8/8/2004,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
-2024,Summer,Zhijian Deng,Male,3/5/2002,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
-2024,Summer,Zhenye Xie,Male,8/17/1993,People's Republic of China,CHN,Athletics,"[""Men's 100m"", ""Men's 4 x 100m Relay""]",
-2024,Summer,Jiapeng Chen,Male,7/5/2002,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
-2024,Summer,Zhiqiang Wu,Male,4/10/1994,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
-2024,Summer,Haibin Yan,Male,1/8/2003,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
-2024,Summer,Manqi Ge,Female,10/13/1997,People's Republic of China,CHN,Athletics,"[""Women's 100m""]",
-2024,Summer,Yuting Li,Female,5/3/2002,People's Republic of China,CHN,Athletics,"[""Women's 200m""]",
-2024,Summer,Zhaozhao Wang,Male,9/1/1999,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk""]",
-2024,Summer,Xianghong He,Male,7/1/1998,People's Republic of China,CHN,Athletics,['Marathon Race Walk Relay Mixed'],
-2024,Summer,Jun Zhang,Male,7/20/1998,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
-2024,Summer,Yandong Li,Male,2/2/1998,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
-2024,Summer,Jiayu Yang,Female,2/18/1996,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",Gold
-2024,Summer,Zhenxia Ma,Female,8/1/1998,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk""]",
-2024,Summer,Hong Liu,Female,5/12/1987,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
-2024,Summer,Shijie Qieyang,Female,11/11/1990,People's Republic of China,CHN,Athletics,['Marathon Race Walk Relay Mixed'],
+2024,Summer,Chen Jinfeng,Male,8/8/2004,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
+2024,Summer,Deng Zhijian,Male,3/5/2002,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
+2024,Summer,Xie Zhenye,Male,8/17/1993,People's Republic of China,CHN,Athletics,"[""Men's 100m"", ""Men's 4 x 100m Relay""]",
+2024,Summer,Chen Jiapeng,Male,7/5/2002,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
+2024,Summer,Wu Zhiqiang,Male,4/10/1994,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
+2024,Summer,Yan Haibin,Male,1/8/2003,People's Republic of China,CHN,Athletics,"[""Men's 4 x 100m Relay""]",
+2024,Summer,Ge Manqi,Female,10/13/1997,People's Republic of China,CHN,Athletics,"[""Women's 100m""]",
+2024,Summer,Li Yuting,Female,5/3/2002,People's Republic of China,CHN,Athletics,"[""Women's 200m""]",
+2024,Summer,Wang Zhaozhao,Male,9/1/1999,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk""]",
+2024,Summer,He Xianghong,Male,7/1/1998,People's Republic of China,CHN,Athletics,['Marathon Race Walk Relay Mixed'],
+2024,Summer,Zhang Jun,Male,7/20/1998,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
+2024,Summer,Li Yandong,Male,2/2/1998,People's Republic of China,CHN,Athletics,"[""Men's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
+2024,Summer,Yang Jiayu,Female,2/18/1996,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",Gold
+2024,Summer,Ma Zhenxia,Female,8/1/1998,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk""]",
+2024,Summer,Liu Hong,Female,5/12/1987,People's Republic of China,CHN,Athletics,"[""Women's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
+2024,Summer,Qieyang Shijie,Female,11/11/1990,People's Republic of China,CHN,Athletics,['Marathon Race Walk Relay Mixed'],
 2024,Summer,Billy Stairmand,Male,10/21/1989,New Zealand,NZL,Surfing,['Men'],
 2024,Summer,Saffi Vette,Female,12/31/2001,New Zealand,NZL,Surfing,['Women'],
-2024,Summer,Junxi Liu,Male,12/11/2003,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
-2024,Summer,Weibo Qin,Male,12/29/2002,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
-2024,Summer,Zhuoyi Xu,Male,8/21/2003,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
-2024,Summer,Zhiyu Xie,Male,3/24/2000,People's Republic of China,CHN,Athletics,"[""Men's 400m Hurdles""]",
-2024,Summer,Yuwei Lin,Female,5/2/1999,People's Republic of China,CHN,Athletics,"[""Women's 100m Hurdles""]",
-2024,Summer,Yanni Wu,Female,7/28/1997,People's Republic of China,CHN,Athletics,"[""Women's 100m Hurdles""]",
-2024,Summer,Jiadie Mo,Female,1/6/2000,People's Republic of China,CHN,Athletics,"[""Women's 400m Hurdles""]",
-2024,Summer,Jiayuan Song,Female,9/15/1997,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",Bronze
-2024,Summer,Bin Feng,Female,4/3/1994,People's Republic of China,CHN,Athletics,"[""Women's Discus Throw""]",Silver
-2024,Summer,Yue Sun,Female,6/19/2001,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",
-2024,Summer,Zhichao Jiang,Female,1/6/2005,People's Republic of China,CHN,Athletics,"[""Women's Discus Throw""]",
-2024,Summer,Zheng Wang,Female,12/14/1987,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",
-2024,Summer,Jie Zhao,Female,10/13/2002,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",Bronze
-2024,Summer,Qianqian Dai,Female,8/23/2000,People's Republic of China,CHN,Athletics,"[""Women's Javelin Throw""]",
-2024,Summer,Huihui Lyu,Female,6/26/1989,People's Republic of China,CHN,Athletics,"[""Women's Javelin Throw""]",
-2024,Summer,Lijiao Gong,Female,1/24/1989,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",
-2024,Summer,Jiangyan Li,Female,5/22/1999,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",
-2024,Summer,Qi Wang,Male,2/10/2001,People's Republic of China,CHN,Athletics,"[""Men's Hammer Throw""]",
-2024,Summer,Shaohui Yang,Male,7/9/1992,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
-2024,Summer,Jie He,Male,12/27/1998,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
-2024,Summer,Xiangdong Wu,Male,1/17/1994,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
-2024,Summer,Deshun Zhang,Female,2/21/1996,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
-2024,Summer,Li Bai,Female,3/30/1996,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
-2024,Summer,Yuyu Xia,Female,3/1/1998,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
-2024,Summer,Shuangshuang Xu,Female,4/6/1996,People's Republic of China,CHN,Athletics,"[""Women's 3000m Steeplechase""]",
+2024,Summer,Liu Junxi,Male,12/11/2003,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
+2024,Summer,Qin Weibo,Male,12/29/2002,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
+2024,Summer,Xu Zhuoyi,Male,8/21/2003,People's Republic of China,CHN,Athletics,"[""Men's 110m Hurdles""]",
+2024,Summer,Xie Zhiyu,Male,3/24/2000,People's Republic of China,CHN,Athletics,"[""Men's 400m Hurdles""]",
+2024,Summer,Lin Yuwei,Female,5/2/1999,People's Republic of China,CHN,Athletics,"[""Women's 100m Hurdles""]",
+2024,Summer,Wu Yanni,Female,7/28/1997,People's Republic of China,CHN,Athletics,"[""Women's 100m Hurdles""]",
+2024,Summer,Mo Jiadie,Female,1/6/2000,People's Republic of China,CHN,Athletics,"[""Women's 400m Hurdles""]",
+2024,Summer,Song Jiayuan,Female,9/15/1997,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",Bronze
+2024,Summer,Feng Bin,Female,4/3/1994,People's Republic of China,CHN,Athletics,"[""Women's Discus Throw""]",Silver
+2024,Summer,Sun Yue,Female,6/19/2001,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",
+2024,Summer,Jiang Zhichao,Female,1/6/2005,People's Republic of China,CHN,Athletics,"[""Women's Discus Throw""]",
+2024,Summer,Wang Zheng,Female,12/14/1987,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",
+2024,Summer,Zhao Jie,Female,10/13/2002,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",Bronze
+2024,Summer,Dai Qianqian,Female,8/23/2000,People's Republic of China,CHN,Athletics,"[""Women's Javelin Throw""]",
+2024,Summer,Lyu Huihui,Female,6/26/1989,People's Republic of China,CHN,Athletics,"[""Women's Javelin Throw""]",
+2024,Summer,Gong Lijiao,Female,1/24/1989,People's Republic of China,CHN,Athletics,"[""Women's Shot Put""]",
+2024,Summer,Li Jiangyan,Female,5/22/1999,People's Republic of China,CHN,Athletics,"[""Women's Hammer Throw""]",
+2024,Summer,Wang Qi,Male,2/10/2001,People's Republic of China,CHN,Athletics,"[""Men's Hammer Throw""]",
+2024,Summer,Yang Shaohui,Male,7/9/1992,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
+2024,Summer,He Jie,Male,12/27/1998,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
+2024,Summer,Wu Xiangdong,Male,1/17/1994,People's Republic of China,CHN,Athletics,"[""Men's Marathon""]",
+2024,Summer,Zhang Deshun,Female,2/21/1996,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
+2024,Summer,Bai Li,Female,3/30/1996,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
+2024,Summer,Xia Yuyu,Female,3/1/1998,People's Republic of China,CHN,Athletics,"[""Women's Marathon""]",
+2024,Summer,Xu Shuangshuang,Female,4/6/1996,People's Republic of China,CHN,Athletics,"[""Women's 3000m Steeplechase""]",
 2024,Summer,Haruka Nakamura,Female,5/18/2008,Japan,JPN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
 2024,Summer,Rina Kishi,Female,9/23/2007,Japan,JPN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
 2024,Summer,Kohane Ushioku,Female,8/17/2004,Japan,JPN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
@@ -5760,20 +5760,20 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Yuta Koga,Male,7/15/1999,Japan,JPN,Athletics,"[""Men's 20km Race Walk""]",
 2024,Summer,Haruka Kokai,Female,1/20/2003,Japan,JPN,Athletics,"[""Women's 10,000m""]",
 2024,Summer,Naoki Koyama,Male,5/12/1996,Japan,JPN,Athletics,"[""Men's Marathon""]",
-2024,Summer,Liguo Cao,Male,10/4/1998,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 60kg""]",Silver
-2024,Summer,Haitao Qian,Male,8/12/1996,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 87kg""]",
-2024,Summer,Lingzhe Meng,Male,4/16/1998,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 130kg""]",Bronze
-2024,Summer,Wanhao Zou,Male,3/29/1998,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 57kg""]",
-2024,Summer,Feng Lu,Male,12/10/2003,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 74kg""]",
-2024,Summer,Awusayiman Habila,Male,6/1/1998,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 97kg""]",
-2024,Summer,Zhiwei Deng,Male,2/12/1988,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 125kg""]",
-2024,Summer,Ziqi Feng,Female,6/29/1999,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 50kg""]",Bronze
-2024,Summer,Qianyu Pang,Female,11/13/1996,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 53kg""]",Bronze
-2024,Summer,Kexin Hong,Female,1/6/2003,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 57kg""]",Bronze
-2024,Summer,Feng Zhou,Female,9/12/1993,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 68kg""]",
-2024,Summer,Juan Wang,Female,4/14/1995,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 76kg""]",
+2024,Summer,Cao Liguo,Male,10/4/1998,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 60kg""]",Silver
+2024,Summer,Qian Haitao,Male,8/12/1996,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 87kg""]",
+2024,Summer,Meng Lingzhe,Male,4/16/1998,People's Republic of China,CHN,Wrestling,"[""Men's Greco-Roman 130kg""]",Bronze
+2024,Summer,Zou Wanhao,Male,3/29/1998,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 57kg""]",
+2024,Summer,Lu Feng,Male,12/10/2003,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 74kg""]",
+2024,Summer,Habila Awusayiman,Male,6/1/1998,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 97kg""]",
+2024,Summer,Deng Zhiwei,Male,2/12/1988,People's Republic of China,CHN,Wrestling,"[""Men's Freestyle 125kg""]",
+2024,Summer,Feng Ziqi,Female,6/29/1999,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 50kg""]",Bronze
+2024,Summer,Pang Qianyu,Female,11/13/1996,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 53kg""]",Bronze
+2024,Summer,Hong Kexin,Female,1/6/2003,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 57kg""]",Bronze
+2024,Summer,Zhou Feng,Female,9/12/1993,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 68kg""]",
+2024,Summer,Wang Juan,Female,4/14/1995,People's Republic of China,CHN,Wrestling,"[""Women's Freestyle 76kg""]",
 2024,Summer,Rutendo Joan Nyahora,Female,11/11/1988,Zimbabwe,ZIM,Athletics,"[""Women's Marathon""]",
-2024,Summer,Xinyu Lin,Female,4/24/2002,People's Republic of China,CHN,Triathlon,"[""Women's Individual""]",
+2024,Summer,Lin Xinyu,Female,4/24/2002,People's Republic of China,CHN,Triathlon,"[""Women's Individual""]",
 2024,Summer,Isaac Mpofu,Male,8/20/1988,Zimbabwe,ZIM,Athletics,"[""Men's Marathon""]",
 2024,Summer,Joshua Abuaku,Male,7/7/1996,Germany,GER,Athletics,"[""Men's 400m Hurdles""]",
 2024,Summer,Emil Agyekum,Male,5/22/1999,Germany,GER,Athletics,"[""Men's 400m Hurdles"", ""Men's 4 x 400m Relay""]",
@@ -5861,22 +5861,22 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Niklas Noah Klei,Male,5/8/1999,Germany,GER,Athletics,"[""Men's 4 x 400m Relay""]",
 2024,Summer,Greta Kerekes,Female,10/9/1992,Hungary,HUN,Athletics,"[""Women's 100m Hurdles""]",
 2024,Summer,Hanga Klekner,Female,9/24/1999,Hungary,HUN,Athletics,"[""Women's Pole Vault""]",
-2024,Summer,Yawen Deng,Female,10/17/2005,People's Republic of China,CHN,Cycling BMX Freestyle,"[""Women's Park""]",Gold
-2024,Summer,Jiaqi Sun,Female,4/26/2004,People's Republic of China,CHN,Cycling BMX Freestyle,"[""Women's Park""]",
-2024,Summer,Xianjing Lyu,Male,2/2/1998,People's Republic of China,CHN,Cycling Road,"[""Men's Road Race""]",
-2024,Summer,Xin Tang,Female,1/7/2001,People's Republic of China,CHN,Cycling Road,"[""Women's Road Race"", ""Women's Individual Time Trial""]",
+2024,Summer,Deng Yawen,Female,10/17/2005,People's Republic of China,CHN,Cycling BMX Freestyle,"[""Women's Park""]",Gold
+2024,Summer,Sun Jiaqi,Female,4/26/2004,People's Republic of China,CHN,Cycling BMX Freestyle,"[""Women's Park""]",
+2024,Summer,Lyu Xianjing,Male,2/2/1998,People's Republic of China,CHN,Cycling Road,"[""Men's Road Race""]",
+2024,Summer,Tang Xin,Female,1/7/2001,People's Republic of China,CHN,Cycling Road,"[""Women's Road Race"", ""Women's Individual Time Trial""]",
 2024,Summer,Luca Kozak,Female,6/1/1996,Hungary,HUN,Athletics,"[""Women's 100m Hurdles""]",
 2024,Summer,Xenia Krizsan,Female,1/13/1993,Hungary,HUN,Athletics,"[""Women's Heptathlon""]",
 2024,Summer,Viktoria Madarasz,Female,5/12/1985,Hungary,HUN,Athletics,"[""Women's 20km Race Walk""]",
-2024,Summer,Shanju Bao,Female,11/3/1997,People's Republic of China,CHN,Cycling Track,"[""Women's Sprint"", ""Women's Team Sprint""]",
-2024,Summer,Yufang Guo,Female,3/15/1999,People's Republic of China,CHN,Cycling Track,"[""Women's Keirin"", ""Women's Team Sprint""]",
-2024,Summer,Liying Yuan,Female,4/13/2005,People's Republic of China,CHN,Cycling Track,"[""Women's Keirin"", ""Women's Sprint"", ""Women's Team Sprint""]",
-2024,Summer,Yulu Jiang,Female,1/27/2004,People's Republic of China,CHN,Cycling Track,"[""Women's Team Sprint""]",
-2024,Summer,Yu Zhou,Male,1/5/1999,People's Republic of China,CHN,Cycling Track,"[""Men's Keirin"", ""Men's Sprint"", ""Men's Team Sprint""]",
-2024,Summer,Shuai Guo,Male,5/1/1995,People's Republic of China,CHN,Cycling Track,"[""Men's Team Sprint""]",
-2024,Summer,Qi Liu,Male,11/29/2000,People's Republic of China,CHN,Cycling Track,"[""Men's Keirin"", ""Men's Sprint"", ""Men's Team Sprint""]",
-2024,Summer,Zhiwei Li,Male,1/28/2004,People's Republic of China,CHN,Cycling Track,"[""Men's Team Sprint""]",
-2024,Summer,Jiali Liu,Female,4/6/1994,People's Republic of China,CHN,Cycling Track,"[""Women's Omnium""]",
+2024,Summer,Bao Shanju,Female,11/3/1997,People's Republic of China,CHN,Cycling Track,"[""Women's Sprint"", ""Women's Team Sprint""]",
+2024,Summer,Guo Yufang,Female,3/15/1999,People's Republic of China,CHN,Cycling Track,"[""Women's Keirin"", ""Women's Team Sprint""]",
+2024,Summer,Yuan Liying,Female,4/13/2005,People's Republic of China,CHN,Cycling Track,"[""Women's Keirin"", ""Women's Sprint"", ""Women's Team Sprint""]",
+2024,Summer,Jiang Yulu,Female,1/27/2004,People's Republic of China,CHN,Cycling Track,"[""Women's Team Sprint""]",
+2024,Summer,Zhou Yu,Male,1/5/1999,People's Republic of China,CHN,Cycling Track,"[""Men's Keirin"", ""Men's Sprint"", ""Men's Team Sprint""]",
+2024,Summer,Guo Shuai,Male,5/1/1995,People's Republic of China,CHN,Cycling Track,"[""Men's Team Sprint""]",
+2024,Summer,Liu Qi,Male,11/29/2000,People's Republic of China,CHN,Cycling Track,"[""Men's Keirin"", ""Men's Sprint"", ""Men's Team Sprint""]",
+2024,Summer,Li Zhiwei,Male,1/28/2004,People's Republic of China,CHN,Cycling Track,"[""Men's Team Sprint""]",
+2024,Summer,Liu Jiali,Female,4/6/1994,People's Republic of China,CHN,Cycling Track,"[""Women's Omnium""]",
 2024,Summer,Attila Molnar,Male,1/17/2002,Hungary,HUN,Athletics,"[""Men's 400m""]",
 2024,Summer,Rita Nemes,Female,11/30/1989,Hungary,HUN,Athletics,"[""Women's Heptathlon""]",
 2024,Summer,Selma Dhaouadi,Female,2/3/1996,Tunisia,TUN,Rowing,"[""Lightweight Women's Double Sculls""]",
@@ -5885,18 +5885,18 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Bat Erdene Byambasuren,Male,7/12/1999,Mongolia,MGL,Wrestling,"[""Men's Freestyle 86kg""]",
 2024,Summer,Davaanasan Enkh Amar,Female,4/6/1998,Mongolia,MGL,Wrestling,"[""Women's Freestyle 76kg""]",
 2024,Summer,Makanakaishe Charamba,Male,12/20/2001,Zimbabwe,ZIM,Athletics,"[""Men's 200m""]",
-2024,Summer,Shiqi Xiong,Female,3/9/2004,People's Republic of China,CHN,Athletics,"[""Women's Long Jump""]",
-2024,Summer,Yuhao Shi,Male,9/26/1998,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
-2024,Summer,Mingkun Zhang,Male,10/20/2000,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
-2024,Summer,Yaming Zhu,Male,5/4/1994,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
-2024,Summer,Yaoqing Fang,Male,4/20/1996,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
-2024,Summer,Wen Su,Male,2/10/1999,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
-2024,Summer,Jie Yao,Male,9/21/1990,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
-2024,Summer,Bokai Huang,Male,9/26/1996,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
-2024,Summer,Tao Zhong,Male,8/12/2002,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
-2024,Summer,Zhen Wang,Male,10/7/2001,People's Republic of China,CHN,Athletics,"[""Men's High Jump""]",
-2024,Summer,Rui Zeng,Female,2/6/1998,People's Republic of China,CHN,Athletics,"[""Women's Triple Jump""]",
-2024,Summer,Chunge Niu,Female,2/14/2000,People's Republic of China,CHN,Athletics,"[""Women's Pole Vault""]",
+2024,Summer,Xiong Shiqi,Female,3/9/2004,People's Republic of China,CHN,Athletics,"[""Women's Long Jump""]",
+2024,Summer,Shi Yuhao,Male,9/26/1998,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
+2024,Summer,Zhang Mingkun,Male,10/20/2000,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
+2024,Summer,Zhu Yaming,Male,5/4/1994,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
+2024,Summer,Fang Yaoqing,Male,4/20/1996,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
+2024,Summer,Su Wen,Male,2/10/1999,People's Republic of China,CHN,Athletics,"[""Men's Triple Jump""]",
+2024,Summer,Yao Jie,Male,9/21/1990,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
+2024,Summer,Huang Bokai,Male,9/26/1996,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
+2024,Summer,Zhong Tao,Male,8/12/2002,People's Republic of China,CHN,Athletics,"[""Men's Pole Vault""]",
+2024,Summer,Wang Zhen,Male,10/7/2001,People's Republic of China,CHN,Athletics,"[""Men's High Jump""]",
+2024,Summer,Zeng Rui,Female,2/6/1998,People's Republic of China,CHN,Athletics,"[""Women's Triple Jump""]",
+2024,Summer,Niu Chunge,Female,2/14/2000,People's Republic of China,CHN,Athletics,"[""Women's Pole Vault""]",
 2024,Summer,Lkhagvagerel Munkhtur,Male,1/4/1998,Mongolia,MGL,Wrestling,"[""Men's Freestyle 125kg""]",
 2024,Summer,Mark Roche,Male,1/25/1993,Ireland,IRL,Rugby Sevens,['Men'],
 2024,Summer,Margaret Tembo,Female,5/21/1999,Zambia,ZAM,Boxing,"[""Women's 50kg""]",
@@ -6135,20 +6135,20 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Soleymi Antoni Caraballo Hernandez,Female,6/17/1994,Venezuela,VEN,Wrestling,"[""Women's Freestyle 68kg""]",
 2024,Summer,Anriquelis Barrios,Female,8/20/1993,Venezuela,VEN,Judo,['Women -63 kg'],
 2024,Summer,Philippe Abel Metellus,Male,5/30/1990,Haiti,HAI,Judo,['Men -73 kg'],
-2024,Summer,Ian Yentou Ho,Male,4/25/1997,"Hong Kong, China",HKG,Swimming,"[""Men's 100m Freestyle"", ""Men's 50m Freestyle""]",
-2024,Summer,Hoi Shun Stephanie Au,Female,5/30/1992,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
-2024,Summer,Camille Lily Mei Cheng,Female,5/9/1993,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",
-2024,Summer,Siobhan Bernadette Haughey,Female,10/31/1997,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Siobhan Bernadette Haughey,Female,10/31/1997,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Cheuk Tung Natalie Kan,Female,4/30/2002,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
-2024,Summer,Hoi Lam Tam,Female,4/21/1998,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
-2024,Summer,Sum Yuet Cindy Cheung,Female,8/9/2006,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Backstroke"", ""Women's 200m Backstroke""]",
-2024,Summer,Cheuk Yiu Lee,Male,8/28/1996,"Hong Kong, China",HKG,Badminton,"[""Men's Singles""]",
-2024,Summer,Chun Man Tang,Male,3/20/1995,"Hong Kong, China",HKG,Badminton,['Mixed Doubles'],
-2024,Summer,Sin Yan Happy Lo,Female,2/25/2003,"Hong Kong, China",HKG,Badminton,"[""Women's Singles""]",
-2024,Summer,Ying Suet Tse,Female,11/9/1991,"Hong Kong, China",HKG,Badminton,['Mixed Doubles'],
-2024,Summer,Nga Ting Yeung,Female,10/13/1998,"Hong Kong, China",HKG,Badminton,"[""Women's Doubles""]",
-2024,Summer,Pui Lam Yeung,Female,10/26/2001,"Hong Kong, China",HKG,Badminton,"[""Women's Doubles""]",
+2024,Summer,Ho Ian Yentou,Male,4/25/1997,"Hong Kong, China",HKG,Swimming,"[""Men's 100m Freestyle"", ""Men's 50m Freestyle""]",
+2024,Summer,Au Hoi Shun Stephanie,Female,5/30/1992,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
+2024,Summer,Cheng Camille Lily Mei,Female,5/9/1993,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",
+2024,Summer,Haughey Siobhan Bernadette,Female,10/31/1997,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Haughey Siobhan Bernadette,Female,10/31/1997,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Kan Cheuk Tung Natalie,Female,4/30/2002,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
+2024,Summer,Tam Hoi Lam,Female,4/21/1998,"Hong Kong, China",HKG,Swimming,"[""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", 'Relay Only Athlete']",
+2024,Summer,Cheung Sum Yuet Cindy,Female,8/9/2006,"Hong Kong, China",HKG,Swimming,"[""Women's 100m Backstroke"", ""Women's 200m Backstroke""]",
+2024,Summer,Lee Cheuk Yiu,Male,8/28/1996,"Hong Kong, China",HKG,Badminton,"[""Men's Singles""]",
+2024,Summer,Tang Chun Man,Male,3/20/1995,"Hong Kong, China",HKG,Badminton,['Mixed Doubles'],
+2024,Summer,Lo Sin Yan Happy,Female,2/25/2003,"Hong Kong, China",HKG,Badminton,"[""Women's Singles""]",
+2024,Summer,Tse Ying Suet,Female,11/9/1991,"Hong Kong, China",HKG,Badminton,['Mixed Doubles'],
+2024,Summer,Yeung Nga Ting,Female,10/13/1998,"Hong Kong, China",HKG,Badminton,"[""Women's Doubles""]",
+2024,Summer,Yeung Pui Lam,Female,10/26/2001,"Hong Kong, China",HKG,Badminton,"[""Women's Doubles""]",
 2024,Summer,Aron Kifle,Male,2/20/1998,Eritrea,ERI,Athletics,"[""Men's 5000m""]",
 2024,Summer,Aynura Primova,Female,9/2/2006,Turkmenistan,TKM,Swimming,"[""Women's 100m Backstroke""]",
 2024,Summer,Giovanni Toti,Male,12/28/2000,Italy,ITA,Badminton,"[""Men's Singles""]",
@@ -6394,37 +6394,37 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Tom Walsh,Male,3/1/1992,New Zealand,NZL,Athletics,"[""Men's Shot Put""]",
 2024,Summer,Hamish Kerr,Male,8/17/1996,New Zealand,NZL,Athletics,"[""Men's High Jump""]",Gold
 2024,Summer,Muhd Noor Firdaus Ar-Rasyid,Male,10/22/1996,Brunei Darussalam,BRU,Athletics,"[""Men's 100m""]",
-2024,Summer,Jianan Wang,Male,8/27/1996,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
+2024,Summer,Wang Jianan,Male,8/27/1996,People's Republic of China,CHN,Athletics,"[""Men's Long Jump""]",
 2024,Summer,Erin Routliffe,Female,4/11/1995,New Zealand,NZL,Tennis,"[""Women's Doubles""]",
-2024,Summer,Jiujiang Mi,Male,5/8/1992,People's Republic of China,CHN,Cycling Mountain Bike,"[""Men's Cross-country""]",
-2024,Summer,Zhifan Wu,Female,3/5/2001,People's Republic of China,CHN,Cycling Mountain Bike,"[""Women's Cross-country""]",
+2024,Summer,Mi Jiujiang,Male,5/8/1992,People's Republic of China,CHN,Cycling Mountain Bike,"[""Men's Cross-country""]",
+2024,Summer,Wu Zhifan,Female,3/5/2001,People's Republic of China,CHN,Cycling Mountain Bike,"[""Women's Cross-country""]",
 2024,Summer,Leonie Beu,Female,11/28/1998,Papua New Guinea,PNG,Athletics,"[""Women's 100m""]",
 2024,Summer,David Liti,Male,7/11/1996,New Zealand,NZL,Weightlifting,"[""Men's +102kg""]",
-2024,Summer,Qian Li,Female,6/6/1990,People's Republic of China,CHN,Boxing,"[""Women's 75kg""]",Gold
-2024,Summer,Liu Yang,Female,5/20/1992,People's Republic of China,CHN,Boxing,"[""Women's 66kg""]",Silver
-2024,Summer,Wenlu Yang,Female,1/13/1991,People's Republic of China,CHN,Boxing,"[""Women's 60kg""]",Silver
-2024,Summer,Zichun Xu,Female,6/9/1996,People's Republic of China,CHN,Boxing,"[""Women's 57kg""]",
-2024,Summer,Yuan Chang,Female,6/24/1997,People's Republic of China,CHN,Boxing,"[""Women's 54kg""]",Gold
-2024,Summer,Yu Wu,Female,1/13/1995,People's Republic of China,CHN,Boxing,"[""Women's 50kg""]",Gold
-2024,Summer,Xuezhen Han,Male,4/28/1999,People's Republic of China,CHN,Boxing,"[""Men's 92kg""]",
-2024,Summer,Tanglatihan Tuohetaerbieke,Male,11/18/1996,People's Republic of China,CHN,Boxing,"[""Men's 80kg""]",
-2024,Summer,Yi Chen,Female,1/28/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Wen Dan,Female,6/14/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Yunxia Fan,Female,12/7/2002,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Bingfeng Gu,Female,1/25/1994,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Jiangxin He,Female,8/19/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Hong Li,Female,5/31/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Ning Ma,Female,9/29/2000,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Zixia Ou,Female,9/24/1995,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Jinzhuang Tan,Female,1/27/2003,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Wenyu Xu,Female,12/6/1995,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Liu Yang,Female,9/1/1998,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Jiao Ye,Female,10/21/1994,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Anhui Yu,Female,4/30/2001,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Ying Zhang,Female,8/29/1998,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Jiaqi Zhong,Female,9/23/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Meirong Zou,Female,9/1/2000,People's Republic of China,CHN,Hockey,['Women'],Silver
-2024,Summer,Yang Chen,Female,2/15/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Li Qian,Female,6/6/1990,People's Republic of China,CHN,Boxing,"[""Women's 75kg""]",Gold
+2024,Summer,Yang Liu,Female,5/20/1992,People's Republic of China,CHN,Boxing,"[""Women's 66kg""]",Silver
+2024,Summer,Yang Wenlu,Female,1/13/1991,People's Republic of China,CHN,Boxing,"[""Women's 60kg""]",Silver
+2024,Summer,Xu Zichun,Female,6/9/1996,People's Republic of China,CHN,Boxing,"[""Women's 57kg""]",
+2024,Summer,Chang Yuan,Female,6/24/1997,People's Republic of China,CHN,Boxing,"[""Women's 54kg""]",Gold
+2024,Summer,Wu Yu,Female,1/13/1995,People's Republic of China,CHN,Boxing,"[""Women's 50kg""]",Gold
+2024,Summer,Han Xuezhen,Male,4/28/1999,People's Republic of China,CHN,Boxing,"[""Men's 92kg""]",
+2024,Summer,Tuohetaerbieke Tanglatihan,Male,11/18/1996,People's Republic of China,CHN,Boxing,"[""Men's 80kg""]",
+2024,Summer,Chen Yi,Female,1/28/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Dan Wen,Female,6/14/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Fan Yunxia,Female,12/7/2002,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Gu Bingfeng,Female,1/25/1994,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,He Jiangxin,Female,8/19/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Li Hong,Female,5/31/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Ma Ning,Female,9/29/2000,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Ou Zixia,Female,9/24/1995,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Tan Jinzhuang,Female,1/27/2003,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Xu Wenyu,Female,12/6/1995,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Yang Liu,Female,9/1/1998,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Ye Jiao,Female,10/21/1994,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Yu Anhui,Female,4/30/2001,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Zhang Ying,Female,8/29/1998,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Zhong Jiaqi,Female,9/23/1999,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Zou Meirong,Female,9/1/2000,People's Republic of China,CHN,Hockey,['Women'],Silver
+2024,Summer,Chen Yang,Female,2/15/1997,People's Republic of China,CHN,Hockey,['Women'],Silver
 2024,Summer,Matt Macdonald,Male,3/15/1999,New Zealand,NZL,Rowing,"[""Men's Four""]",Silver
 2024,Summer,Shannon Cox,Female,6/4/1998,New Zealand,NZL,Rowing,"[""Lightweight Women's Double Sculls""]",
 2024,Summer,Alana Sherman,Female,12/2/1998,New Zealand,NZL,Rowing,"[""Women's Pair""]",
@@ -6462,60 +6462,60 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Sera Song,Female,9/6/1993,Republic of Korea,KOR,Fencing,"[""Women's Épée Individual"", ""Women's Épée Team""]",
 2024,Summer,Jisu Yoon,Female,1/24/1993,Republic of Korea,KOR,Fencing,"[""Women's Sabre Individual"", ""Women's Sabre Team""]",Silver
 2024,Summer,Subenrat Insaeng,Female,2/10/1994,Thailand,THA,Athletics,"[""Women's Discus Throw""]",
-2024,Summer,Keyi Chen,Female,7/23/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Xinrong Dou,Female,5/27/2001,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Yaoyao Gu,Female,11/22/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Yu Hu,Female,4/9/1999,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Xiaoqian Liu,Female,2/16/1996,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Xiaodan Ma,Female,5/20/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Hongting Ruan,Female,10/6/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Qi Su,Female,1/7/2000,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Yue Sun,Female,12/31/1999,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Xiao Wang,Female,10/12/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Feifei Yang,Female,10/5/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Yan Zhou,Female,6/5/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
-2024,Summer,Meiling Yan,Female,1/14/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Chen Keyi,Female,7/23/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Dou Xinrong,Female,5/27/2001,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Gu Yaoyao,Female,11/22/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Hu Yu,Female,4/9/1999,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Liu Xiaoqian,Female,2/16/1996,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Ma Xiaodan,Female,5/20/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Ruan Hongting,Female,10/6/1995,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Su Qi,Female,1/7/2000,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Sun Yue,Female,12/31/1999,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Wang Xiao,Female,10/12/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Yang Feifei,Female,10/5/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Zhou Yan,Female,6/5/1998,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Yan Meiling,Female,1/14/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
 2024,Summer,- Jenjira Srisa Ard,Female,4/16/1995,Thailand,THA,Swimming,"[""Women's 50m Freestyle""]",
-2024,Summer,Wanyu Wang,Female,2/14/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
+2024,Summer,Wang Wanyu,Female,2/14/1997,People's Republic of China,CHN,Rugby Sevens,['Women'],
 2024,Summer,Dulyawat Kaewsriyong,Male,8/13/2002,Thailand,THA,Swimming,"[""Men's 100m Freestyle""]",
-2024,Summer,Xiao Chen,Female,3/11/1999,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Zewen Deng,Female,2/6/1997,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Wenxin Dong,Female,3/12/2001,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Yiwen Lu,Female,5/16/1996,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Sanfeng Nong,Female,2/11/1998,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Yineng Shen,Female,1/18/1995,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Huan Wang,Female,10/8/1997,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Xuan Wang,Female,12/11/2002,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Dunhan Xiong,Female,11/11/1998,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Siya Yan,Female,5/11/2002,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Jing Yan,Female,3/31/1997,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Jing Zhang,Female,6/16/1996,People's Republic of China,CHN,Water Polo,['Women'],
-2024,Summer,Qiyun Zhong,Female,3/28/2004,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Chen Xiao,Female,3/11/1999,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Deng Zewen,Female,2/6/1997,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Dong Wenxin,Female,3/12/2001,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Lu Yiwen,Female,5/16/1996,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Nong Sanfeng,Female,2/11/1998,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Shen Yineng,Female,1/18/1995,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Wang Huan,Female,10/8/1997,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Wang Xuan,Female,12/11/2002,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Xiong Dunhan,Female,11/11/1998,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Yan Siya,Female,5/11/2002,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Yan Jing,Female,3/31/1997,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Zhang Jing,Female,6/16/1996,People's Republic of China,CHN,Water Polo,['Women'],
+2024,Summer,Zhong Qiyun,Female,3/28/2004,People's Republic of China,CHN,Water Polo,['Women'],
 2024,Summer,Dmitriy Panarin,Male,1/8/2000,Kazakhstan,KAZ,Badminton,"[""Men's Singles""]",
-2024,Summer,Xin Quan,Male,11/24/1996,People's Republic of China,CHN,Canoe Slalom,"[""Men's Kayak Single"", ""Men's Kayak Cross""]",
-2024,Summer,Juan Huang,Female,8/14/2002,People's Republic of China,CHN,Canoe Slalom,"[""Women's Canoe Single""]",
-2024,Summer,Shiting Li,Female,11/25/2005,People's Republic of China,CHN,Canoe Slalom,"[""Women's Kayak Single"", ""Women's Kayak Cross""]",
-2024,Summer,Wenjun Lin,Female,6/3/1997,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Single 200m""]",
-2024,Summer,Shixiao Xu,Female,2/16/1992,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Double 500m""]",Gold
-2024,Summer,Mengya Sun,Female,5/3/2001,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Double 500m""]",Gold
-2024,Summer,Bowen Ji,Male,2/22/2002,People's Republic of China,CHN,Canoe Sprint,"[""Men's Canoe Single 1000m"", ""Men's Canoe Double 500m""]",Gold
-2024,Summer,Hao Liu,Male,9/6/1993,People's Republic of China,CHN,Canoe Sprint,"[""Men's Canoe Single 1000m"", ""Men's Canoe Double 500m""]",Gold
-2024,Summer,Mengdie Yin,Female,11/17/1997,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Single 500m"", ""Women's Kayak Four 500m""]",
-2024,Summer,Nan Wang,Female,9/25/2000,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Single 500m"", ""Women's Kayak Four 500m""]",
-2024,Summer,Dongyin Li,Female,7/6/1995,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Four 500m""]",
-2024,Summer,Yuewen Sun,Female,6/25/1994,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Four 500m""]",
-2024,Summer,Yule Chen,Female,12/17/2007,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Double 500m""]",
-2024,Summer,Shimeng Yu,Female,10/15/1999,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Double 500m""]",
-2024,Summer,Dong Zhang,Male,11/18/1996,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Single 1000m"", ""Men's Kayak Double 500m"", ""Men's Kayak Four 500m""]",
-2024,Summer,Congkang Wang,Male,10/31/1996,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Four 500m""]",
-2024,Summer,Tingkai Bu,Male,12/19/1995,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Double 500m"", ""Men's Kayak Four 500m""]",
-2024,Summer,Yi Dong,Male,7/28/2002,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Four 500m""]",
-2024,Summer,Zilu Wang,Female,6/18/2003,People's Republic of China,CHN,Rhythmic Gymnastics,['Individual All-Around'],
-2024,Summer,Xinyi Ding,Female,8/27/2004,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
-2024,Summer,Qiqi Guo,Female,8/7/1998,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
-2024,Summer,Ting Hao,Female,3/23/2001,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
-2024,Summer,Zhangjiayang Huang,Female,2/15/2000,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
-2024,Summer,Lanjing Wang,Female,3/10/2005,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
+2024,Summer,Quan Xin,Male,11/24/1996,People's Republic of China,CHN,Canoe Slalom,"[""Men's Kayak Single"", ""Men's Kayak Cross""]",
+2024,Summer,Huang Juan,Female,8/14/2002,People's Republic of China,CHN,Canoe Slalom,"[""Women's Canoe Single""]",
+2024,Summer,Li Shiting,Female,11/25/2005,People's Republic of China,CHN,Canoe Slalom,"[""Women's Kayak Single"", ""Women's Kayak Cross""]",
+2024,Summer,Lin Wenjun,Female,6/3/1997,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Single 200m""]",
+2024,Summer,Xu Shixiao,Female,2/16/1992,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Double 500m""]",Gold
+2024,Summer,Sun Mengya,Female,5/3/2001,People's Republic of China,CHN,Canoe Sprint,"[""Women's Canoe Double 500m""]",Gold
+2024,Summer,Ji Bowen,Male,2/22/2002,People's Republic of China,CHN,Canoe Sprint,"[""Men's Canoe Single 1000m"", ""Men's Canoe Double 500m""]",Gold
+2024,Summer,Liu Hao,Male,9/6/1993,People's Republic of China,CHN,Canoe Sprint,"[""Men's Canoe Single 1000m"", ""Men's Canoe Double 500m""]",Gold
+2024,Summer,Yin Mengdie,Female,11/17/1997,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Single 500m"", ""Women's Kayak Four 500m""]",
+2024,Summer,Wang Nan,Female,9/25/2000,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Single 500m"", ""Women's Kayak Four 500m""]",
+2024,Summer,Li Dongyin,Female,7/6/1995,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Four 500m""]",
+2024,Summer,Sun Yuewen,Female,6/25/1994,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Four 500m""]",
+2024,Summer,Chen Yule,Female,12/17/2007,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Double 500m""]",
+2024,Summer,Yu Shimeng,Female,10/15/1999,People's Republic of China,CHN,Canoe Sprint,"[""Women's Kayak Double 500m""]",
+2024,Summer,Zhang Dong,Male,11/18/1996,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Single 1000m"", ""Men's Kayak Double 500m"", ""Men's Kayak Four 500m""]",
+2024,Summer,Wang Congkang,Male,10/31/1996,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Four 500m""]",
+2024,Summer,Bu Tingkai,Male,12/19/1995,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Double 500m"", ""Men's Kayak Four 500m""]",
+2024,Summer,Dong Yi,Male,7/28/2002,People's Republic of China,CHN,Canoe Sprint,"[""Men's Kayak Four 500m""]",
+2024,Summer,Wang Zilu,Female,6/18/2003,People's Republic of China,CHN,Rhythmic Gymnastics,['Individual All-Around'],
+2024,Summer,Ding Xinyi,Female,8/27/2004,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
+2024,Summer,Guo Qiqi,Female,8/7/1998,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
+2024,Summer,Hao Ting,Female,3/23/2001,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
+2024,Summer,Huang Zhangjiayang,Female,2/15/2000,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
+2024,Summer,Wang Lanjing,Female,3/10/2005,People's Republic of China,CHN,Rhythmic Gymnastics,['Group All-Around'],Gold
 2024,Summer,Danil Mussabayev,Male,9/13/1998,Kazakhstan,KAZ,Trampoline Gymnastics,['Men'],
 2024,Summer,Delgermaa Enkhsaikhan,Female,6/1/1999,Mongolia,MGL,Wrestling,"[""Women's Freestyle 68kg""]",
 2024,Summer,Boeun Gim,Female,12/8/1997,Republic of Korea,KOR,Handball,['Women'],
@@ -6536,18 +6536,18 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Jiyoung Song,Female,5/5/1996,Republic of Korea,KOR,Handball,['Women'],
 2024,Summer,Bitna Woo,Female,10/23/2001,Republic of Korea,KOR,Handball,['Women'],
 2024,Summer,Nitai Hasson,Male,3/15/1998,Israel,ISR,Sailing,['Mixed Dinghy'],
-2024,Summer,Huadong Sun,Male,1/7/1991,People's Republic of China,CHN,Equestrian,['Eventing Individual'],
+2024,Summer,Sun Huadong,Male,1/7/1991,People's Republic of China,CHN,Equestrian,['Eventing Individual'],
 2024,Summer,Rita Recsei,Female,1/30/1996,Hungary,HUN,Athletics,"[""Women's 20km Race Walk"", 'Marathon Race Walk Relay Mixed']",
-2024,Summer,Alex Hua Tian,Male,10/25/1989,People's Republic of China,CHN,Equestrian,['Eventing Individual'],
+2024,Summer,Hua Tian Alex,Male,10/25/1989,People's Republic of China,CHN,Equestrian,['Eventing Individual'],
 2024,Summer,Tom Reuveny,Male,6/12/2000,Israel,ISR,Sailing,"[""Men's Windsurfing""]",Gold
 2024,Summer,Nikola Miljenic,Male,5/19/1998,Croatia,CRO,Swimming,"[""Men's 100m Butterfly"", ""Men's 100m Freestyle""]",
 2024,Summer,Jana Pavalic,Female,5/27/2007,Croatia,CRO,Swimming,"[""Women's 100m Freestyle"", ""Women's 50m Freestyle""]",
-2024,Summer,Zhizhen Zhang,Male,10/16/1996,People's Republic of China,CHN,Tennis,"[""Men's Singles"", 'Mixed Doubles']",Silver
-2024,Summer,Qinwen Zheng,Female,10/8/2002,People's Republic of China,CHN,Tennis,"[""Women's Singles"", 'Mixed Doubles']",Gold
-2024,Summer,Xiyu Wang,Female,3/28/2001,People's Republic of China,CHN,Tennis,"[""Women's Singles""]",
-2024,Summer,Yue Yuan,Female,9/25/1998,People's Republic of China,CHN,Tennis,"[""Women's Doubles"", ""Women's Singles""]",
-2024,Summer,Shuai Zhang,Female,1/21/1989,People's Republic of China,CHN,Tennis,"[""Women's Doubles""]",
-2024,Summer,Xinyu Wang,Female,9/26/2001,People's Republic of China,CHN,Tennis,"[""Women's Doubles"", ""Women's Singles"", 'Mixed Doubles']",Silver
+2024,Summer,Zhang Zhizhen,Male,10/16/1996,People's Republic of China,CHN,Tennis,"[""Men's Singles"", 'Mixed Doubles']",Silver
+2024,Summer,Zheng Qinwen,Female,10/8/2002,People's Republic of China,CHN,Tennis,"[""Women's Singles"", 'Mixed Doubles']",Gold
+2024,Summer,Wang Xiyu,Female,3/28/2001,People's Republic of China,CHN,Tennis,"[""Women's Singles""]",
+2024,Summer,Yuan Yue,Female,9/25/1998,People's Republic of China,CHN,Tennis,"[""Women's Doubles"", ""Women's Singles""]",
+2024,Summer,Zhang Shuai,Female,1/21/1989,People's Republic of China,CHN,Tennis,"[""Women's Doubles""]",
+2024,Summer,Wang Xinyu,Female,9/26/2001,People's Republic of China,CHN,Tennis,"[""Women's Doubles"", ""Women's Singles"", 'Mixed Doubles']",Silver
 2024,Summer,Sharon Kantor,Female,1/28/2003,Israel,ISR,Sailing,"[""Women's Windsurfing""]",Silver
 2024,Summer,Gal Zukerman,Female,8/17/2003,Israel,ISR,Sailing,"[""Women's Kite""]",
 2024,Summer,Shay Kakon,Female,11/5/2002,Israel,ISR,Sailing,"[""Women's Dinghy""]",
@@ -6562,7 +6562,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Khongorzul Boldsaikhan,Female,5/27/2001,Mongolia,MGL,Wrestling,"[""Women's Freestyle 57kg""]",
 2024,Summer,Edda Hannesdottir,Female,12/8/1994,Iceland,ISL,Triathlon,"[""Women's Individual""]",
 2024,Summer,Khulan Batkhuyag,Female,11/20/1999,Mongolia,MGL,Wrestling,"[""Women's Freestyle 53kg""]",
-2024,Summer,Wai Hung Shek,Male,10/10/1991,"Hong Kong, China",HKG,Artistic Gymnastics,"['Men', ""Men's Vault""]",
+2024,Summer,Shek Wai Hung,Male,10/10/1991,"Hong Kong, China",HKG,Artistic Gymnastics,"['Men', ""Men's Vault""]",
 2024,Summer,Ahmed Adel,Male,11/25/1994,Egypt,EGY,Handball,['Men'],
 2024,Summer,Ferdinand Omanyala,Male,1/2/1996,Kenya,KEN,Athletics,"[""Men's 100m""]",
 2024,Summer,Omar Elwakil,Male,5/14/1988,Egypt,EGY,Handball,['Men'],
@@ -8012,54 +8012,54 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Ally Wollaston,Female,1/4/2001,New Zealand,NZL,Cycling Track,"[""Women's Omnium"", ""Women's Team Pursuit""]",Bronze
 2024,Summer,Ally Wollaston,Female,1/4/2001,New Zealand,NZL,Cycling Track,"[""Women's Omnium"", ""Women's Team Pursuit""]",Silver
 2024,Summer,Emily Shearman,Female,2/23/1999,New Zealand,NZL,Cycling Track,"[""Women's Madison"", ""Women's Team Pursuit""]",Silver
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Yufei Zhang,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Jiajun Sun,Male,8/1/2000,People's Republic of China,CHN,Swimming,"[""Men's 100m Butterfly"", ""Men's 100m Breaststroke"", ""Men's 4 x 100m Medley Relay""]",Gold
-2024,Summer,Haiyang Qin,Male,5/17/1999,People's Republic of China,CHN,Swimming,"[""Men's 100m Breaststroke"", ""Men's 200m Breaststroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Haiyang Qin,Male,5/17/1999,People's Republic of China,CHN,Swimming,"[""Men's 100m Breaststroke"", ""Men's 200m Breaststroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
-2024,Summer,Jiayu Xu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Jiayu Xu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Jiayu Xu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
-2024,Summer,Haoyu Wang,Male,7/27/2005,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 4 x 100m Freestyle Relay""]",
-2024,Summer,Juner Chen,Male,2/17/2004,People's Republic of China,CHN,Swimming,"[""Men's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",
-2024,Summer,Guangsheng Niu,Male,6/9/2004,People's Republic of China,CHN,Swimming,"[""Men's 200m Butterfly"", ""Men's 4 x 200m Freestyle Relay""]",
-2024,Summer,Zhihao Dong,Male,3/31/2005,People's Republic of China,CHN,Swimming,"[""Men's 200m Breaststroke""]",
-2024,Summer,Xinjie Ji,Male,10/27/1997,People's Republic of China,CHN,Swimming,"[""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 200m Freestyle Relay""]",
-2024,Summer,Zhanshuo Zhang,Male,5/14/2007,People's Republic of China,CHN,Swimming,"[""Men's 400m Freestyle"", ""Men's 400m Individual Medley"", ""Men's 4 x 200m Freestyle Relay"", ""Men's 800m Freestyle""]",
-2024,Summer,Zhanle Pan,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
-2024,Summer,Zhanle Pan,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Zhanle Pan,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
-2024,Summer,Changhao Wang,Male,8/1/2002,People's Republic of China,CHN,Swimming,"[""Men's 100m Butterfly"", ""Men's 4 x 100m Medley Relay""]",Gold
-2024,Summer,Liwei Fei,Male,3/12/2003,People's Republic of China,CHN,Swimming,"[""Men's 1500m Freestyle"", ""Men's 400m Freestyle"", ""Men's 4 x 200m Freestyle Relay"", ""Men's 800m Freestyle""]",
-2024,Summer,Xueer Wang,Female,1/15/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Backstroke"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Junxuan Yang,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Junxuan Yang,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Junxuan Yang,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Junxuan Yang,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Weizhong Gao,Female,3/18/2008,People's Republic of China,CHN,Swimming,"[""Women's 1500m Freestyle""]",
-2024,Summer,Yiting Yu,Female,9/5/2005,People's Republic of China,CHN,Swimming,"[""Women's 200m Individual Medley"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Yiting Yu,Female,9/5/2005,People's Republic of China,CHN,Swimming,"[""Women's 200m Individual Medley"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Xuwei Peng,Female,1/15/2003,People's Republic of China,CHN,Swimming,"[""Women's 200m Backstroke""]",
-2024,Summer,Bingjie Li,Female,3/3/2002,People's Republic of China,CHN,Swimming,"[""Women's 1500m Freestyle"", ""Women's 200m Freestyle"", ""Women's 400m Freestyle"", ""Women's 4 x 200m Freestyle Relay"", ""Women's 800m Freestyle""]",Bronze
-2024,Summer,Chutong Ge,Female,9/23/2003,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
-2024,Summer,Shun Wang,Male,2/11/1994,People's Republic of China,CHN,Swimming,"[""Men's 200m Individual Medley""]",Bronze
-2024,Summer,Qianting Tang,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Qianting Tang,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
-2024,Summer,Qianting Tang,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
-2024,Summer,Chang Yang,Female,9/16/2001,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke""]",
-2024,Summer,Letian Wan,Female,8/12/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Backstroke"", ""Women's 4 x 100m Medley Relay""]",Bronze
-2024,Summer,Qingfeng Wu,Female,1/28/2003,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle""]",Bronze
-2024,Summer,Qingfeng Wu,Female,1/28/2003,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle""]",Bronze
-2024,Summer,Luying Chen,Female,11/11/2006,People's Republic of China,CHN,Swimming,"[""Women's 200m Butterfly""]",
-2024,Summer,Shiwen Ye,Female,3/1/1996,People's Republic of China,CHN,Swimming,"[""Women's 200m Breaststroke"", ""Women's 200m Individual Medley""]",
-2024,Summer,Yaqi Kong,Female,1/24/2008,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
-2024,Summer,Yaxin Liu,Female,6/16/1999,People's Republic of China,CHN,Swimming,"[""Women's 400m Freestyle"", ""Women's 4 x 200m Freestyle Relay""]",Bronze
-2024,Summer,Muhan Tang,Female,9/4/2003,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
-2024,Summer,Yujie Cheng,Female,9/22/2005,People's Republic of China,CHN,Swimming,"[""Women's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",Bronze
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Zhang Yufei,Female,4/19/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Butterfly"", ""Women's 200m Butterfly"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Sun Jiajun,Male,8/1/2000,People's Republic of China,CHN,Swimming,"[""Men's 100m Butterfly"", ""Men's 100m Breaststroke"", ""Men's 4 x 100m Medley Relay""]",Gold
+2024,Summer,Qin Haiyang,Male,5/17/1999,People's Republic of China,CHN,Swimming,"[""Men's 100m Breaststroke"", ""Men's 200m Breaststroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Qin Haiyang,Male,5/17/1999,People's Republic of China,CHN,Swimming,"[""Men's 100m Breaststroke"", ""Men's 200m Breaststroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
+2024,Summer,Xu Jiayu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Xu Jiayu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Xu Jiayu,Male,8/19/1995,People's Republic of China,CHN,Swimming,"[""Men's 100m Backstroke"", ""Men's 200m Backstroke"", ""Men's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
+2024,Summer,Wang Haoyu,Male,7/27/2005,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 4 x 100m Freestyle Relay""]",
+2024,Summer,Chen Juner,Male,2/17/2004,People's Republic of China,CHN,Swimming,"[""Men's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",
+2024,Summer,Niu Guangsheng,Male,6/9/2004,People's Republic of China,CHN,Swimming,"[""Men's 200m Butterfly"", ""Men's 4 x 200m Freestyle Relay""]",
+2024,Summer,Dong Zhihao,Male,3/31/2005,People's Republic of China,CHN,Swimming,"[""Men's 200m Breaststroke""]",
+2024,Summer,Ji Xinjie,Male,10/27/1997,People's Republic of China,CHN,Swimming,"[""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 200m Freestyle Relay""]",
+2024,Summer,Zhang Zhanshuo,Male,5/14/2007,People's Republic of China,CHN,Swimming,"[""Men's 400m Freestyle"", ""Men's 400m Individual Medley"", ""Men's 4 x 200m Freestyle Relay"", ""Men's 800m Freestyle""]",
+2024,Summer,Pan Zhanle,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
+2024,Summer,Pan Zhanle,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Pan Zhanle,Male,8/4/2004,People's Republic of China,CHN,Swimming,"[""Men's 100m Freestyle"", ""Men's 200m Freestyle"", ""Men's 4 x 100m Freestyle Relay"", ""Men's 4 x 100m Medley Relay"", ""Men's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Gold
+2024,Summer,Wang Changhao,Male,8/1/2002,People's Republic of China,CHN,Swimming,"[""Men's 100m Butterfly"", ""Men's 4 x 100m Medley Relay""]",Gold
+2024,Summer,Fei Liwei,Male,3/12/2003,People's Republic of China,CHN,Swimming,"[""Men's 1500m Freestyle"", ""Men's 400m Freestyle"", ""Men's 4 x 200m Freestyle Relay"", ""Men's 800m Freestyle""]",
+2024,Summer,Wang Xueer,Female,1/15/1998,People's Republic of China,CHN,Swimming,"[""Women's 100m Backstroke"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Yang Junxuan,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Yang Junxuan,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Yang Junxuan,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Yang Junxuan,Female,1/26/2002,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 200m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 4 x 200m Freestyle Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Gao Weizhong,Female,3/18/2008,People's Republic of China,CHN,Swimming,"[""Women's 1500m Freestyle""]",
+2024,Summer,Yu Yiting,Female,9/5/2005,People's Republic of China,CHN,Swimming,"[""Women's 200m Individual Medley"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Yu Yiting,Female,9/5/2005,People's Republic of China,CHN,Swimming,"[""Women's 200m Individual Medley"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Peng Xuwei,Female,1/15/2003,People's Republic of China,CHN,Swimming,"[""Women's 200m Backstroke""]",
+2024,Summer,Li Bingjie,Female,3/3/2002,People's Republic of China,CHN,Swimming,"[""Women's 1500m Freestyle"", ""Women's 200m Freestyle"", ""Women's 400m Freestyle"", ""Women's 4 x 200m Freestyle Relay"", ""Women's 800m Freestyle""]",Bronze
+2024,Summer,Ge Chutong,Female,9/23/2003,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
+2024,Summer,Wang Shun,Male,2/11/1994,People's Republic of China,CHN,Swimming,"[""Men's 200m Individual Medley""]",Bronze
+2024,Summer,Tang Qianting,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Tang Qianting,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Silver
+2024,Summer,Tang Qianting,Female,3/14/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke"", ""Women's 4 x 100m Medley Relay"", 'Mixed 4 x 100m Medley Relay']",Bronze
+2024,Summer,Yang Chang,Female,9/16/2001,People's Republic of China,CHN,Swimming,"[""Women's 100m Breaststroke""]",
+2024,Summer,Wan Letian,Female,8/12/2004,People's Republic of China,CHN,Swimming,"[""Women's 100m Backstroke"", ""Women's 4 x 100m Medley Relay""]",Bronze
+2024,Summer,Wu Qingfeng,Female,1/28/2003,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle""]",Bronze
+2024,Summer,Wu Qingfeng,Female,1/28/2003,People's Republic of China,CHN,Swimming,"[""Women's 100m Freestyle"", ""Women's 4 x 100m Freestyle Relay"", ""Women's 4 x 100m Medley Relay"", ""Women's 50m Freestyle""]",Bronze
+2024,Summer,Chen Luying,Female,11/11/2006,People's Republic of China,CHN,Swimming,"[""Women's 200m Butterfly""]",
+2024,Summer,Ye Shiwen,Female,3/1/1996,People's Republic of China,CHN,Swimming,"[""Women's 200m Breaststroke"", ""Women's 200m Individual Medley""]",
+2024,Summer,Kong Yaqi,Female,1/24/2008,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
+2024,Summer,Liu Yaxin,Female,6/16/1999,People's Republic of China,CHN,Swimming,"[""Women's 400m Freestyle"", ""Women's 4 x 200m Freestyle Relay""]",Bronze
+2024,Summer,Tang Muhan,Female,9/4/2003,People's Republic of China,CHN,Swimming,"[""Women's 4 x 200m Freestyle Relay"", 'Relay Only Athlete']",Bronze
+2024,Summer,Cheng Yujie,Female,9/22/2005,People's Republic of China,CHN,Swimming,"[""Women's 4 x 100m Freestyle Relay"", 'Relay Only Athlete']",Bronze
 2024,Summer,Alice Arnott,Female,2/25/1998,Australia,AUS,Hockey,['Women'],
 2024,Summer,Amy Lawton,Female,1/19/2002,Australia,AUS,Hockey,['Women'],
 2024,Summer,Andrew Charter,Male,3/30/1987,Australia,AUS,Hockey,['Men'],
@@ -9340,21 +9340,21 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Katy Marchant,Female,1/30/1993,Great Britain,GBR,Cycling Track,"[""Women's Keirin"", ""Women's Sprint"", ""Women's Team Sprint""]",Gold
 2024,Summer,Jessica Roberts,Female,4/11/1999,Great Britain,GBR,Cycling Track,"[""Women's Madison"", ""Women's Team Pursuit""]",Bronze
 2024,Summer,Mohamed Tarek,Male,4/20/2002,Egypt,EGY,Football,['Men'],
-2024,Summer,Wan Yau Vincent Lau,Male,9/23/1996,"Hong Kong, China",HKG,Cycling Road,"[""Men's Road Race""]",
-2024,Summer,Sze Wing Lee,Female,5/5/2001,"Hong Kong, China",HKG,Cycling Track,"[""Women's Road Race"", ""Women's Omnium""]",
+2024,Summer,Lau Wan Yau Vincent,Male,9/23/1996,"Hong Kong, China",HKG,Cycling Road,"[""Men's Road Race""]",
+2024,Summer,Lee Sze Wing,Female,5/5/2001,"Hong Kong, China",HKG,Cycling Track,"[""Women's Road Race"", ""Women's Omnium""]",
 2024,Summer,Adam Stodolski,Male,3/2/2000,Poland,POL,Judo,['Men -73 kg'],
 2024,Summer,Piotr Kuczera,Male,2/25/1995,Poland,POL,Judo,['Men -100 kg'],
 2024,Summer,Bence Pongracz,Male,9/23/1999,Hungary,HUN,Judo,"['Men -66 kg', 'Mixed Team']",
 2024,Summer,Angelika Szymanska,Female,10/16/1999,Poland,POL,Judo,['Women -63 kg'],
-2024,Summer,Ching Yin Cheng,Male,8/10/1999,"Hong Kong, China",HKG,Sailing,"[""Men's Windsurfing""]",
-2024,Summer,Kwan Ching Ma,Female,8/31/1997,"Hong Kong, China",HKG,Sailing,"[""Women's Windsurfing""]",
+2024,Summer,Cheng Ching Yin,Male,8/10/1999,"Hong Kong, China",HKG,Sailing,"[""Men's Windsurfing""]",
+2024,Summer,Ma Kwan Ching,Female,8/31/1997,"Hong Kong, China",HKG,Sailing,"[""Women's Windsurfing""]",
 2024,Summer,Patrick James Brown,Male,11/10/1999,Great Britain,GBR,Boxing,"[""Men's 92kg""]",
 2024,Summer,Andy Criere,Male,8/7/1995,Spain,ESP,Surfing,['Men'],
 2024,Summer,Nadia Erostarbe,Female,5/27/2000,Spain,ESP,Surfing,['Women'],
 2024,Summer,Janire Gonzalez Etxabarri,Female,3/3/2005,Spain,ESP,Surfing,['Women'],
 2024,Summer,Charley Davison,Female,11/24/1993,Great Britain,GBR,Boxing,"[""Women's 54kg""]",
 2024,Summer,Mahmoud Saber,Male,7/30/2001,Egypt,EGY,Football,['Men'],
-2024,Summer,Jason Tai Long Ng,Male,2/12/2000,"Hong Kong, China",HKG,Triathlon,"[""Men's Individual""]",
+2024,Summer,Ng Jason Tai Long,Male,2/12/2000,"Hong Kong, China",HKG,Triathlon,"[""Men's Individual""]",
 2024,Summer,Phil Healy,Female,11/19/1994,Ireland,IRL,Athletics,"[""Women's 4 x 400m Relay""]",
 2024,Summer,Madelyn Andrea Rodriguez,Female,3/26/2000,Dominican Republic,DOM,Taekwondo,['Women -67kg'],
 2024,Summer,Chantelle Jordan Reid,Female,5/31/1998,Great Britain,GBR,Boxing,"[""Women's 75kg""]",
@@ -9673,41 +9673,41 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Abdoulaye Toure,Male,3/3/1994,Guinea,GUI,Football,['Men'],
 2024,Summer,Moriba Ilaix,Male,1/19/2003,Guinea,GUI,Football,['Men'],
 2024,Summer,Algassime Bah,Male,11/12/2002,Guinea,GUI,Football,['Men'],
-2024,Summer,Hin Chun Chiu,Male,8/20/1994,"Hong Kong, China",HKG,Rowing,"[""Men's Single Sculls""]",
-2024,Summer,Zheng Yan,Female,10/24/2001,People's Republic of China,CHN,Sailing,"[""Women's Windsurfing""]",
-2024,Summer,Qibin Huang,Male,7/5/2006,People's Republic of China,CHN,Sailing,"[""Men's Kite""]",
-2024,Summer,Jingyue Chen,Female,12/28/2000,People's Republic of China,CHN,Sailing,"[""Women's Kite""]",
-2024,Summer,Zangjun Xu,Male,2/6/1992,People's Republic of China,CHN,Sailing,['Mixed Dinghy'],
-2024,Summer,Zaiding Wen,Male,5/26/2001,People's Republic of China,CHN,Sailing,"[""Men's Skiff""]",
-2024,Summer,Tian Liu,Male,1/7/2000,People's Republic of China,CHN,Sailing,"[""Men's Skiff""]",
-2024,Summer,Xiaoyu Hu,Female,9/20/1999,People's Republic of China,CHN,Sailing,"[""Women's Skiff""]",
-2024,Summer,Mengyuan Shan,Female,7/23/2000,People's Republic of China,CHN,Sailing,"[""Women's Skiff""]",
-2024,Summer,Min Gu,Female,9/25/1994,People's Republic of China,CHN,Sailing,"[""Women's Dinghy""]",
-2024,Summer,Huicong Mai,Male,12/16/1995,People's Republic of China,CHN,Sailing,['Mixed Multihull'],
-2024,Summer,Linlin Chen,Female,12/24/1998,People's Republic of China,CHN,Sailing,['Mixed Multihull'],
-2024,Summer,Jingye Huang,Male,4/23/2003,People's Republic of China,CHN,Sailing,"[""Men's Windsurfing""]",
+2024,Summer,Chiu Hin Chun,Male,8/20/1994,"Hong Kong, China",HKG,Rowing,"[""Men's Single Sculls""]",
+2024,Summer,Yan Zheng,Female,10/24/2001,People's Republic of China,CHN,Sailing,"[""Women's Windsurfing""]",
+2024,Summer,Huang Qibin,Male,7/5/2006,People's Republic of China,CHN,Sailing,"[""Men's Kite""]",
+2024,Summer,Chen Jingyue,Female,12/28/2000,People's Republic of China,CHN,Sailing,"[""Women's Kite""]",
+2024,Summer,Xu Zangjun,Male,2/6/1992,People's Republic of China,CHN,Sailing,['Mixed Dinghy'],
+2024,Summer,Wen Zaiding,Male,5/26/2001,People's Republic of China,CHN,Sailing,"[""Men's Skiff""]",
+2024,Summer,Liu Tian,Male,1/7/2000,People's Republic of China,CHN,Sailing,"[""Men's Skiff""]",
+2024,Summer,Hu Xiaoyu,Female,9/20/1999,People's Republic of China,CHN,Sailing,"[""Women's Skiff""]",
+2024,Summer,Shan Mengyuan,Female,7/23/2000,People's Republic of China,CHN,Sailing,"[""Women's Skiff""]",
+2024,Summer,Gu Min,Female,9/25/1994,People's Republic of China,CHN,Sailing,"[""Women's Dinghy""]",
+2024,Summer,Mai Huicong,Male,12/16/1995,People's Republic of China,CHN,Sailing,['Mixed Multihull'],
+2024,Summer,Chen Linlin,Female,12/24/1998,People's Republic of China,CHN,Sailing,['Mixed Multihull'],
+2024,Summer,Huang Jingye,Male,4/23/2003,People's Republic of China,CHN,Sailing,"[""Men's Windsurfing""]",
 2024,Summer,Don Opeloge,Male,5/13/1999,Samoa,SAM,Weightlifting,"[""Men's 102kg""]",
-2024,Summer,Russell Williams Aylsworth,Male,4/16/2001,"Hong Kong, China",HKG,Sailing,"[""Men's Skiff""]",
-2024,Summer,Akira Luke Sakai,Male,10/30/1992,"Hong Kong, China",HKG,Sailing,"[""Men's Skiff""]",
-2024,Summer,Nicholas Halliday,Male,6/18/1999,"Hong Kong, China",HKG,Sailing,"[""Men's Dinghy""]",
+2024,Summer,Aylsworth Russell Williams,Male,4/16/2001,"Hong Kong, China",HKG,Sailing,"[""Men's Skiff""]",
+2024,Summer,Sakai Akira Luke,Male,10/30/1992,"Hong Kong, China",HKG,Sailing,"[""Men's Skiff""]",
+2024,Summer,Halliday Nicholas,Male,6/18/1999,"Hong Kong, China",HKG,Sailing,"[""Men's Dinghy""]",
 2024,Summer,Iuniarra Sipaia,Female,6/25/1993,Samoa,SAM,Weightlifting,"[""Women's +81kg""]",
 2024,Summer,Eroni Tui Leilua,Male,4/15/1993,Samoa,SAM,Sailing,"[""Men's Dinghy""]",
 2024,Summer,Vaimooia Astrid Ripley,Female,4/1/1990,Samoa,SAM,Sailing,"[""Women's Dinghy""]",
-2024,Summer,Jianlin Lyu,Male,7/26/1996,People's Republic of China,CHN,Shooting,"['Skeet Men', 'Skeet Mixed Team']",Bronze
+2024,Summer,Lyu Jianlin,Male,7/26/1996,People's Republic of China,CHN,Shooting,"['Skeet Men', 'Skeet Mixed Team']",Bronze
 2024,Summer,Ato Plodzicki- Faoagali,Male,2/18/1999,Samoa,SAM,Boxing,"[""Men's 92kg""]",
 2024,Summer,Tuva'a Clifton,Male,6/29/1997,Samoa,SAM,Canoe Sprint,"[""Men's Kayak Single 1000m""]",
 2024,Summer,Jhonatan Narvaez,Male,3/4/1997,Ecuador,ECU,Cycling Road,"[""Men's Road Race""]",
 2024,Summer,de Antoine Lapparent,Male,2/19/2006,Cambodia,CAM,Swimming,"[""Men's 100m Freestyle""]",
 2024,Summer,Janakabhorn Karunayadhaj,Female,8/18/1997,Thailand,THA,Equestrian,['Jumping Individual'],
-2024,Summer,Ka Lee Wong,Female,6/3/1998,"Hong Kong, China",HKG,Judo,['Women -48 kg'],
+2024,Summer,Wong Ka Lee,Female,6/3/1998,"Hong Kong, China",HKG,Judo,['Women -48 kg'],
 2024,Summer,Osher Davida,Male,2/18/2001,Israel,ISR,Football,['Men'],
-2024,Summer,Chun Ting Wong,Male,9/7/1991,"Hong Kong, China",HKG,Table Tennis,"[""Men's Singles"", 'Mixed Doubles']",
-2024,Summer,Hoi Kem Doo,Female,11/27/1996,"Hong Kong, China",HKG,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",
-2024,Summer,Ho Ching Lee,Female,11/24/1992,"Hong Kong, China",HKG,Table Tennis,"[""Women's Team""]",
-2024,Summer,Chengzhu Zhu,Female,1/15/1997,"Hong Kong, China",HKG,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
+2024,Summer,Wong Chun Ting,Male,9/7/1991,"Hong Kong, China",HKG,Table Tennis,"[""Men's Singles"", 'Mixed Doubles']",
+2024,Summer,Doo Hoi Kem,Female,11/27/1996,"Hong Kong, China",HKG,Table Tennis,"[""Women's Singles"", ""Women's Team"", 'Mixed Doubles']",
+2024,Summer,Lee Ho Ching,Female,11/24/1992,"Hong Kong, China",HKG,Table Tennis,"[""Women's Team""]",
+2024,Summer,Zhu Chengzhu,Female,1/15/1997,"Hong Kong, China",HKG,Table Tennis,"[""Women's Singles"", ""Women's Team""]",
 2024,Summer,Yousuf Almatrooshi,Male,6/1/2003,United Arab Emirates,UAE,Swimming,"[""Men's 100m Freestyle""]",
 2024,Summer,Abdelrahman Abdelgawwad,Male,10/9/1987,Egypt,EGY,Boxing,"[""Men's 80kg""]",
-2024,Summer,Wai Fung Lo,Male,9/12/2002,"Hong Kong, China",HKG,Taekwondo,['Men -68kg'],
+2024,Summer,Lo Wai Fung,Male,9/12/2002,"Hong Kong, China",HKG,Taekwondo,['Men -68kg'],
 2024,Summer,Edi Sherifovski,Male,8/28/2001,North Macedonia,MKD,Judo,['Men -81 kg'],
 2024,Summer,Valentin Houinato,Male,10/15/1996,Benin,BEN,Judo,['Men -81 kg'],
 2024,Summer,Omar Elawady,Male,8/4/1999,Egypt,EGY,Boxing,"[""Men's 71kg""]",
@@ -9742,9 +9742,9 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Ronald Kwemoi,Male,9/19/1995,Kenya,KEN,Athletics,"[""Men's 5000m""]",Silver
 2024,Summer,Pavels Svecovs,Male,9/4/1994,Latvia,LAT,Modern Pentathlon,"[""Men's Individual""]",
 2024,Summer,Yacine Hamza,Male,4/18/1997,Algeria,ALG,Cycling Road,"[""Men's Road Race""]",
-2024,Summer,Ka Long Cheung,Male,6/10/1997,"Hong Kong, China",HKG,Fencing,"[""Men's Foil Individual""]",Gold
-2024,Summer,Wai Hang Ho,Male,4/7/1996,"Hong Kong, China",HKG,Fencing,"[""Men's Épée Individual""]",
-2024,Summer,Man Wai Vivian Kong,Female,2/8/1994,"Hong Kong, China",HKG,Fencing,"[""Women's Épée Individual""]",Gold
+2024,Summer,Cheung Ka Long,Male,6/10/1997,"Hong Kong, China",HKG,Fencing,"[""Men's Foil Individual""]",Gold
+2024,Summer,Ho Wai Hang,Male,4/7/1996,"Hong Kong, China",HKG,Fencing,"[""Men's Épée Individual""]",
+2024,Summer,Kong Man Wai Vivian,Female,2/8/1994,"Hong Kong, China",HKG,Fencing,"[""Women's Épée Individual""]",Gold
 2024,Summer,Nesrine Houili,Female,8/27/2003,Algeria,ALG,Cycling Road,"[""Women's Road Race""]",
 2024,Summer,Ruslan Lunev,Male,7/25/1989,Azerbaijan,AZE,Shooting,"['10m Air Pistol Men', '25m Rapid Fire Pistol Men']",
 2024,Summer,Dina Ulyanova,Female,9/1/1989,Azerbaijan,AZE,3x3 Basketball,['Women'],
@@ -9999,7 +9999,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Benjamin Bouchouari,Male,11/13/2001,Morocco,MAR,Football,['Men'],Bronze
 2024,Summer,Pedro Rogery,Male,11/28/1998,Guinea Bissau,GBS,Swimming,"[""Men's 50m Freestyle""]",
 2024,Summer,Ilias Akhomach,Male,4/16/2004,Morocco,MAR,Football,['Men'],Bronze
-2024,Summer,Felix Chun Hei Diu,Male,4/30/2000,"Hong Kong, China",HKG,Athletics,"[""Men's 100m""]",
+2024,Summer,Diu Felix Chun Hei,Male,4/30/2000,"Hong Kong, China",HKG,Athletics,"[""Men's 100m""]",
 2024,Summer,Sunday Dech,Male,1/1/1994,South Sudan,SSD,Basketball,['Men'],
 2024,Summer,Edmilson Pedro,Male,5/23/1997,Angola,ANG,Judo,['Men -66 kg'],
 2024,Summer,Majok Deng,Male,3/1/1993,South Sudan,SSD,Basketball,['Men'],
@@ -10586,7 +10586,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Felix Auger-Aliassime,Male,8/8/2000,Canada,CAN,Tennis,"[""Men's Doubles"", ""Men's Singles"", 'Mixed Doubles']",Bronze
 2024,Summer,Brigitte Mbabi,Female,5/4/2002,Democratic Republic of the Congo,COD,Boxing,"[""Women's 66kg""]",
 2024,Summer,Ismael Coulibaly,Male,11/20/1992,Mali,MLI,Taekwondo,['Men -80kg'],
-2024,Summer,Nok Sze Daphne Chan,Female,3/12/2005,"Hong Kong, China",HKG,Fencing,"[""Women's Foil Individual""]",
+2024,Summer,Chan Nok Sze Daphne,Female,3/12/2005,"Hong Kong, China",HKG,Fencing,"[""Women's Foil Individual""]",
 2024,Summer,Elsabeth Black,Female,9/8/1995,Canada,CAN,Artistic Gymnastics,"['Women', ""Women's All-Around"", ""Women's Balance Beam"", ""Women's Floor Exercise"", ""Women's Uneven Bars"", ""Women's Vault"", ""Women's Team""]",
 2024,Summer,Zachary Clay,Male,7/5/1995,Canada,CAN,Artistic Gymnastics,"['Men', ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",
 2024,Summer,Rene Cournoyer,Male,4/23/1997,Canada,CAN,Artistic Gymnastics,"['Men', ""Men's All-Around"", ""Men's Floor Exercise"", ""Men's Horizontal Bar"", ""Men's Parallel Bars"", ""Men's Pommel Horse"", ""Men's Rings"", ""Men's Vault"", ""Men's Team""]",
@@ -10756,7 +10756,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Amadou Diallo,Male,7/13/2006,Guinea,GUI,Football,['Men'],
 2024,Summer,Issiaga Camara,Male,2/2/2005,Guinea,GUI,Football,['Men'],
 2024,Summer,Amadou Diawara,Male,7/17/1997,Guinea,GUI,Football,['Men'],
-2024,Summer,Yixiao Lv,Female,10/11/1994,People's Republic of China,CHN,Sailing,['Mixed Dinghy'],
+2024,Summer,Lv Yixiao,Female,10/11/1994,People's Republic of China,CHN,Sailing,['Mixed Dinghy'],
 2024,Summer,William Tai Tin,Male,6/11/1985,Samoa,SAM,Judo,['Men -73 kg'],
 2024,Summer,Jarod Hatch,Male,12/10/1998,Philippines,PHI,Swimming,"[""Men's 100m Butterfly""]",
 2024,Summer,Kayla Sanchez,Female,4/7/2001,Philippines,PHI,Swimming,"[""Women's 100m Freestyle""]",
@@ -11268,7 +11268,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Bradley Nkoana,Male,1/27/2005,South Africa,RSA,Athletics,"[""Men's 4 x 100m Relay""]",Silver
 2024,Summer,Kaelyn Ciara Suryanti Djoparto,Female,6/1/2006,Suriname,SUR,Swimming,"[""Women's 50m Freestyle""]",
 2024,Summer,Maribel Vanessa Caicedo,Female,4/1/1998,Ecuador,ECU,Athletics,"[""Women's 100m Hurdles""]",
-2024,Summer,Enqi Jiao,Female,1/18/2006,People's Republic of China,CHN,Fencing,"[""Women's Foil Team""]",
+2024,Summer,Jiao Enqi,Female,1/18/2006,People's Republic of China,CHN,Fencing,"[""Women's Foil Team""]",
 2024,Summer,Martin Kiprotich,Male,4/6/2003,Uganda,UGA,Athletics,"[""Men's 10,000m""]",
 2024,Summer,Esther Chebet,Female,10/9/1997,Uganda,UGA,Athletics,"[""Women's 5000m""]",
 2024,Summer,Woomin Kim,Male,8/24/2001,Republic of Korea,KOR,Swimming,"[""Men's 200m Freestyle"", ""Men's 400m Freestyle"", ""Men's 4 x 200m Freestyle Relay""]",Bronze
@@ -11280,7 +11280,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Oleh Fedor,Male,7/23/2004,Ukraine,UKR,Football,['Men'],
 2024,Summer,Illia Krupskyi,Male,10/2/2004,Ukraine,UKR,Football,['Men'],
 2024,Summer,Chadd Ng Chiu Hing Ning,Male,6/29/2006,Eswatini,SWZ,Swimming,"[""Men's 100m Breaststroke""]",
-2024,Summer,Saisai Zheng,Female,2/5/1994,People's Republic of China,CHN,Tennis,"[""Women's Doubles""]",
+2024,Summer,Zheng Saisai,Female,2/5/1994,People's Republic of China,CHN,Tennis,"[""Women's Doubles""]",
 2024,Summer,Lisa Rooms,Female,6/17/1996,Belgium,BEL,Athletics,"[""Women's 5000m""]",
 2024,Summer,Santoo Shrestha,Male,6/26/2000,Nepal,NEP,Table Tennis,"[""Men's Singles""]",
 2024,Summer,Toby Harries,Male,9/30/1998,Great Britain,GBR,Athletics,"[""Men's 4 x 400m Relay""]",Bronze
@@ -11310,7 +11310,7 @@ year,season,athlete,gender,birthdate,country,country_noc,sport,event,medal
 2024,Summer,Noelie Annette Lacour,Female,12/1/2006,Gabon,GAB,Swimming,"[""Women's 50m Freestyle""]",
 2024,Summer,Nika Sharafutdinova,Female,6/14/2005,Ukraine,UKR,Swimming,"[""Women's 100m Backstroke""]",
 2024,Summer,Hadji Hassane,Male,11/13/1997,Comoros,COM,Swimming,"[""Men's 100m Freestyle""]",
-2024,Summer,An-Chi Han,Female,9/4/2004,Chinese Taipei,TPE,Swimming,"[""Women's 200m Individual Medley""]",
+2024,Summer,Han An-Chi,Female,9/4/2004,Chinese Taipei,TPE,Swimming,"[""Women's 200m Individual Medley""]",
 2024,Summer,Tobi Sijuade,Male,2/23/2002,Nigeria,NGR,Swimming,"[""Men's 50m Freestyle""]",
 2024,Summer,Khema Elizabeth,Female,1/27/2005,Seychelles,SEY,Swimming,"[""Women's 50m Freestyle""]",
 2024,Summer,Jasneet Nijjar,Female,6/12/2001,Canada,CAN,Athletics,"[""Women's 4 x 400m Relay""]",
